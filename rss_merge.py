@@ -157,10 +157,10 @@ def generate_feed(entries):
             fe.enclosure(url=item["image"], type="image/jpeg", length="0")
         fe.category(term=item["category"])
 
-    xml_declaration_line = '<?xml version="1.0" encoding="UTF-8"?>\n'
-with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-    f.write(xml_declaration_line)
-    f.write(fg.rss_str(pretty=True).decode('utf-8'))
+        xml_declaration_line = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write(xml_declaration_line)
+        f.write(fg.rss_str(pretty=True).decode('utf-8'))
 
 def main():
     entries = update_cache()
