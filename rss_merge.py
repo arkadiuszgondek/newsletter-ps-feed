@@ -70,8 +70,10 @@ def get_category_from_url(url):
     match = re.search(r"onet\.pl/(.*?).feed", url)
     return match.group(1) if match else "inne"
 
-def generate_entry_id(link):
-    return hashlib.md5(link.encode('utf-8')).hexdigest()
+def generate_entry_id(link, published):
+    base = f"{link}-{published.isoformat()}"
+    return f"urn:uuid:{hashlib.md5(base.encode('utf-8')).hexdigest()}"
+
 
 def load_cache():
     if os.path.exists(CACHE_FILE):
@@ -92,7 +94,7 @@ def update_cache():
         feed = feedparser.parse(url)
         category = get_category_from_url(url)
         for entry in feed.entries:
-            entry_id = generate_entry_id(entry.link)
+            entry_id = generate_entry_id(entry.link, published)
             published = datetime(*entry.published_parsed[:6])
             if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
 
