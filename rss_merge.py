@@ -91,8 +91,11 @@ def update_cache():
             published = datetime(*entry.published_parsed[:6])
             entry_id = entry.id if "id" in entry else entry.link  # fallback na link, jeśli brak id
 
-            if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
+            # sprawdź czy link już gdziekolwiek jest w cache
+            if any(entry.link == v["link"] for v in cache.values()):
+                continue  # pomiń duplikat po linku
 
+            if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
                 # pobierz cały XML ręcznie i szukaj <summary> po linku
                 entry_url = entry.link
                 response = requests.get(url)
