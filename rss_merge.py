@@ -10,7 +10,6 @@ from html import unescape
 from bs4 import BeautifulSoup
 
 FEED_URLS = [
-    "https://przegladsportowy.onet.pl/.feed",
     "https://przegladsportowy.onet.pl/pilka-nozna.feed",
     "https://przegladsportowy.onet.pl/tenis.feed",
     "https://przegladsportowy.onet.pl/siatkowka.feed",
@@ -70,11 +69,6 @@ def get_category_from_url(url):
     match = re.search(r"onet\.pl/(.*?).feed", url)
     return match.group(1) if match else "inne"
 
-def generate_entry_id(link, published):
-    base = f"{link}-{published.isoformat()}"
-    return f"urn:uuid:{hashlib.md5(base.encode('utf-8')).hexdigest()}"
-
-
 def load_cache():
     if os.path.exists(CACHE_FILE):
         with open(CACHE_FILE, 'r') as f:
@@ -94,8 +88,9 @@ def update_cache():
         feed = feedparser.parse(url)
         category = get_category_from_url(url)
         for entry in feed.entries:
-            entry_id = generate_entry_id(entry.link, published)
             published = datetime(*entry.published_parsed[:6])
+            entry_id = entry.id if "id" in entry else entry.link  # fallback na link, jeśli brak id
+
             if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
 
                 # pobierz cały XML ręcznie i szukaj <summary> po linku
@@ -122,7 +117,7 @@ def update_cache():
                     "link": entry.link,
                     "published": published.isoformat(),
                     "summary": cleaned,
-                    "id": entry.id if "id" in entry else entry_id,
+                    "id": entry.id,
                     "category": category,
                     "image": entry.enclosures[0].href if entry.enclosures else ""
                 }
