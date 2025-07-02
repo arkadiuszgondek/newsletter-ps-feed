@@ -142,7 +142,13 @@ def generate_feed(entries):
     fg.language('pl')
     fg.author(name='PrzegladSportowy.onet.pl')
 
+    used_ids = set()
+
     for item in sorted(entries.values(), key=lambda x: x['published'], reverse=True):
+        if item["id"] in used_ids:
+            continue  # pomiń duplikat GUID
+        used_ids.add(item["id"])
+
         fe = fg.add_entry()
         fe.id(item["id"])
         fe.title(item["title"])
@@ -153,6 +159,7 @@ def generate_feed(entries):
         if item["image"]:
             fe.enclosure(url=item["image"], type="image/jpeg", length="0")
         fe.category(term=item["category"])
+
 
     rss_content = fg.rss_str(pretty=True).decode('utf-8')
 
