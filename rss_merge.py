@@ -157,7 +157,7 @@ def generate_feed(entries):
             fe.enclosure(url=item["image"], type="image/jpeg", length="0")
         fe.category(term=item["category"])
 
-    fg.rss_file(OUTPUT_FILE, pretty=True)
+    fg.rss_file(OUTPUT_FILE, pretty=True, xml_declaration=True)
 
 def main():
     entries = update_cache()
