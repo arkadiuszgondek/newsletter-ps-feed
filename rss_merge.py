@@ -145,7 +145,7 @@ def generate_feed(entries):
     fg.author(name='PrzegladSportowy.onet.pl')
 
 
-    for item in sorted(entries.values(), key=lambda x: x['published'], reverse=True):
+        for item in sorted(entries.values(), key=lambda x: x['published'], reverse=True):
         fe = fg.add_entry()
         fe.id(item["id"])
         fe.title(item["title"])
@@ -157,10 +157,19 @@ def generate_feed(entries):
             fe.enclosure(url=item["image"], type="image/jpeg", length="0")
         fe.category(term=item["category"])
 
-        xml_declaration_line = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    # --- TUTAJ NASTĘPUJE PRAWIDŁOWY ZAPIS Z XML DEKLARACJĄ ---
+    rss_content = fg.rss_str(pretty=True).decode('utf-8')
+
+    # Usuń ewentualny istniejący nagłówek
+    rss_content = re.sub(r'^<\?xml[^>]+\?>', '', rss_content).lstrip()
+
+    # Nasz poprawny nagłówek z podwójnymi cudzysłowami
+    xml_declaration_line = '<?xml version="1.0" encoding="UTF-8"?>\n'
+
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(xml_declaration_line)
-        f.write(fg.rss_str(pretty=True).decode('utf-8'))
+        f.write(rss_content)
+
 
 def main():
     entries = update_cache()
