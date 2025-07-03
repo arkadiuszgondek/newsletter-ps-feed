@@ -89,38 +89,20 @@ def update_cache():
         category = get_category_from_url(url)
         for entry in feed.entries:
             published = datetime(*entry.published_parsed[:6])
-            entry_id = entry.id if "id" in entry else entry.link  # fallback na link, jeśli brak id
+            entry_id = entry.id if "id" in entry else entry.link
 
-            # sprawdź czy link już gdziekolwiek jest w cache
             if any(entry.link == v["link"] for v in cache.values()):
-                continue  # pomiń duplikat po linku
+                continue
 
             if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
-                # pobierz cały XML ręcznie i szukaj <summary> po linku
-                entry_url = entry.link
-                response = requests.get(url)
-                raw_xml = response.text
+                summary_raw = entry.summary if "summary" in entry else ""
 
-                pattern = rf"<entry>.*?<link[^>]*?href=['\"]{re.escape(entry_url)}['\"].*?</link>.*?<summary[^>]*><!\[CDATA\[(.*?)\]\]></summary>.*?</entry>"
-                match = re.search(pattern, raw_xml, re.DOTALL)
-
-                summary_raw = ""
-                if match:
-                    summary_raw = match.group(1)
-
-
-                cleaned = ""
-                if summary_raw:
-                    cleaned = re.sub(r'<img[^>]*>', '', summary_raw, flags=re.IGNORECASE).strip()
-                    cleaned = re.sub(r'<[^>]+>', '', cleaned).strip()
-
-                
                 cache[entry_id] = {
                     "title": entry.title,
                     "link": entry.link,
                     "published": published.isoformat(),
-                    "summary": cleaned,
-                    "id": entry.id,
+                    "summary": summary_raw,
+                    "id": entry_id,
                     "category": category,
                     "image": entry.enclosures[0].href if entry.enclosures else ""
                 }
@@ -131,6 +113,7 @@ def update_cache():
     }
     save_cache(filtered)
     return filtered
+
 
 def generate_feed(entries):
     fg = FeedGenerator()
