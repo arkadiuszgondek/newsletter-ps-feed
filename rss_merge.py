@@ -84,19 +84,25 @@ def update_cache():
     cutoff = now - timedelta(days=RETENTION_DAYS)
     cache = load_cache()
 
+    print("➡️ Początek aktualizacji cache")
+
     for url in FEED_URLS:
+        print(f"🔗 Przetwarzam: {url}")
         feed = feedparser.parse(url)
         category = get_category_from_url(url)
+
         for entry in feed.entries:
             published = datetime(*entry.published_parsed[:6])
             entry_id = entry.id if "id" in entry else entry.link
 
             if any(entry.link == v["link"] for v in cache.values()):
+                print(f"⏭️ Pomijam duplikat: {entry.link}")
                 continue
 
             if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
                 summary_raw = entry.summary if "summary" in entry else ""
-
+                print(f"🆕 Nowy wpis: {entry.link}")
+                
                 cache[entry_id] = {
                     "title": entry.title,
                     "link": entry.link,
@@ -111,6 +117,8 @@ def update_cache():
         k: v for k, v in cache.items()
         if datetime.fromisoformat(v["published"]).replace(tzinfo=timezone.utc) >= cutoff
     }
+
+    print(f"✅ Zapisuję {len(filtered)} wpisów do cache.json")
     save_cache(filtered)
     return filtered
 
