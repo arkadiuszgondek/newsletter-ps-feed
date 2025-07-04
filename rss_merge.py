@@ -101,7 +101,8 @@ def update_cache():
                 continue
 
             if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
-                summary_raw = entry.get("summary", "")
+                summary_raw = entry.get("summary_detail", {}).get("value", entry.get("summary", ""))
+                print(f"📦 Summary dla {entry.link}:\n{summary_raw}\n---")
                 
                 cache[entry_id] = {
                     "title": entry.title,
