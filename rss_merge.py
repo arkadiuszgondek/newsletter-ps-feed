@@ -154,11 +154,13 @@ def generate_feed(entries):
         fe.link(href=item["link"], rel='alternate', type='text/html')
         pub_dt = datetime.fromisoformat(item["published"]).replace(tzinfo=timezone.utc)
         fe.published(pub_dt)
-        fe.description(f"<![CDATA[{item['summary']}]]>")
+
+        # ✅ Właściwa linia — dekodujemy HTML przed wstawieniem
+        fe.description(f"<![CDATA[{unescape(item['summary'])}]]>")
+
         if item["image"]:
             fe.enclosure(url=item["image"], type="image/jpeg", length="0")
         fe.category(term=item["category"])
-
 
     rss_content = fg.rss_str(pretty=True).decode('utf-8')
 
@@ -171,8 +173,6 @@ def generate_feed(entries):
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(xml_declaration_line)
         f.write(rss_content)
-
-
 
 
 def main():
