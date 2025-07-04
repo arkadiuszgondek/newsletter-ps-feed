@@ -6,9 +6,6 @@ import requests
 from feedgen.feed import FeedGenerator
 import hashlib
 import os
-# TEST: zapis pliku lokalnie
-with open("cache.json", "w") as test_file:
-    test_file.write('{"test": "dziala zapis"}')
 from html import unescape
 from bs4 import BeautifulSoup
 
