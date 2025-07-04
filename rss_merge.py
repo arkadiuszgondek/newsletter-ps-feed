@@ -154,7 +154,7 @@ def generate_feed(entries):
         fe.link(href=item["link"], rel='alternate', type='text/html')
         pub_dt = datetime.fromisoformat(item["published"]).replace(tzinfo=timezone.utc)
         fe.published(pub_dt)
-        fe.summary(item["summary"], type='html')
+        fe.summary(item["summary"])
         if item["image"]:
             fe.enclosure(url=item["image"], type="image/jpeg", length="0")
         fe.category(term=item["category"])
