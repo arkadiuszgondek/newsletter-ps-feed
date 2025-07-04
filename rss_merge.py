@@ -89,29 +89,34 @@ def update_cache():
 
     for url in FEED_URLS:
         print(f"🔗 Przetwarzam: {url}")
-        feed = feedparser.parse(url)
+        response = requests.get(url)
+        feed = feedparser.parse(response.content)
+        soup = BeautifulSoup(response.content, 'xml')
+        entries_raw = soup.find_all('entry')
         category = get_category_from_url(url)
 
-        for entry in feed.entries:
-            published = datetime(*entry.published_parsed[:6])
-            entry_id = entry.id if "id" in entry else entry.link
+        for raw_entry, parsed_entry in zip(entries_raw, feed.entries):
+            published = datetime(*parsed_entry.published_parsed[:6])
+            entry_id = parsed_entry.id if "id" in parsed_entry else parsed_entry.link
 
-            if any(entry.link == v["link"] for v in cache.values()):
-                print(f"⏭️ Pomijam duplikat: {entry.link}")
+            if any(parsed_entry.link == v["link"] for v in cache.values()):
+                print(f"⏭️ Pomijam duplikat: {parsed_entry.link}")
                 continue
 
             if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
-                summary_raw = entry.get("summary_detail", {}).get("value", entry.get("summary", ""))
-                print(f"📦 Summary dla {entry.link}:\n{summary_raw}\n---")
-                
+                summary_tag = raw_entry.find('summary')
+                summary_raw = summary_tag.decode_contents() if summary_tag else ""
+
+                print(f"📦 Summary dla {parsed_entry.link}:\n{summary_raw}\n---")
+
                 cache[entry_id] = {
-                    "title": entry.title,
-                    "link": entry.link,
+                    "title": parsed_entry.title,
+                    "link": parsed_entry.link,
                     "published": published.isoformat(),
                     "summary": summary_raw,
                     "id": entry_id,
                     "category": category,
-                    "image": entry.enclosures[0].href if entry.enclosures else ""
+                    "image": parsed_entry.enclosures[0].href if parsed_entry.enclosures else ""
                 }
 
     filtered = {
@@ -123,6 +128,7 @@ def update_cache():
     print("💾 Zapisuję cache do pliku:", CACHE_FILE)
     save_cache(filtered)
     return filtered
+
 
 
 def generate_feed(entries):
