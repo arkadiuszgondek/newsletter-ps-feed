@@ -101,7 +101,13 @@ def update_cache():
                 continue
 
             if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
-                summary_raw = entry.summary if "summary" in entry else ""
+                summary_raw = (
+                    entry.summary_detail.value
+                    if "summary_detail" in entry and hasattr(entry.summary_detail, "value")
+                    else entry.summary if "summary" in entry
+                    else ""
+                )
+
                 print(f"🆕 Nowy wpis: {entry.link}")
                 
                 cache[entry_id] = {
