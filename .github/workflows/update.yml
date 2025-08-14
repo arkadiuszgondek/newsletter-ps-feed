@@ -2,9 +2,15 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # Co 2 godziny w ciągu dnia, z pominięciem 01:00–05:00 CEST
-    # CEST = UTC+2, więc wykluczamy godziny UTC: 23, 0, 1, 2, 3
-    - cron: '0 4-22/2 * * *'  # start o 04:00 UTC (06:00 CEST) co 2h do 22:00 UTC (24:00 CEST)
+    # Mon-Thu + Sat-Sun: co 2h od 06:00 do 24:00 CEST (czyli 04–22 UTC)
+    - cron: '0 4-22/2 * * 0-4,6'
+
+    # Piątek: okno intensywne 05:00–11:00 CEST co 30 min (03:00–09:00 UTC)
+    - cron: '0,30 3-8 * * 5'   # 03:00–08:30 UTC (05:00–10:30 CEST)
+    - cron: '0 9 * * 5'        # 09:00 UTC (11:00 CEST)
+
+    # Piątek poza oknem 05–11: co 2h od 12:00 do 24:00 CEST (10–22 UTC)
+    - cron: '0 10-22/2 * * 5'
 
   workflow_dispatch:
 
