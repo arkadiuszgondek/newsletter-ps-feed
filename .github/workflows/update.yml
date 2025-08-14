@@ -2,32 +2,9 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # Codzienne odświeżanie (czas CEST)
-    - cron: '0 5 * * *'   # 07:00 CEST
-    - cron: '0 11 * * *'  # 13:00 CEST
-    - cron: '0 17 * * *'  # 19:00 CEST
-
-    # Piątek co 15 minut między 7:00–12:00 CEST (czyli 5:00–10:45 UTC)
-    - cron: '0 5 * * 5'
-    - cron: '15 5 * * 5'
-    - cron: '30 5 * * 5'
-    - cron: '45 5 * * 5'
-    - cron: '0 6 * * 5'
-    - cron: '15 6 * * 5'
-    - cron: '30 6 * * 5'
-    - cron: '45 6 * * 5'
-    - cron: '0 7 * * 5'
-    - cron: '15 7 * * 5'
-    - cron: '30 7 * * 5'
-    - cron: '45 7 * * 5'
-    - cron: '0 8 * * 5'
-    - cron: '15 8 * * 5'
-    - cron: '30 8 * * 5'
-    - cron: '45 8 * * 5'
-    - cron: '0 9 * * 5'
-    - cron: '15 9 * * 5'
-    - cron: '30 9 * * 5'
-    - cron: '45 9 * * 5'
+    # Co 2 godziny w ciągu dnia, z pominięciem 01:00–05:00 CEST
+    # CEST = UTC+2, więc wykluczamy godziny UTC: 23, 0, 1, 2, 3
+    - cron: '0 4-22/2 * * *'  # start o 04:00 UTC (06:00 CEST) co 2h do 22:00 UTC (24:00 CEST)
 
   workflow_dispatch:
 
@@ -53,6 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add docs/rss.xml
+          git add docs/rss.xml cache.json
           git commit -m "Automated update $(date -u +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
