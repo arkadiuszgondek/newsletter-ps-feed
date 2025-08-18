@@ -6,7 +6,7 @@ import requests
 from feedgen.feed import FeedGenerator
 import hashlib
 import os
-from html import unescape
+from html import unescape, escape
 from bs4 import BeautifulSoup
 
 FEED_URLS = [
@@ -156,7 +156,7 @@ def generate_feed(entries):
         fe.published(pub_dt)
 
         # ✅ Właściwa linia — dekodujemy HTML przed wstawieniem
-        fe.description(f"<![CDATA[{unescape(item['summary'])}]]>")
+        fe.description(escape(item["summary"] or ""))
 
         if item["image"]:
             fe.enclosure(url=item["image"], type="image/jpeg", length="0")
