@@ -140,6 +140,19 @@ def update_cache():
     cutoff = now - timedelta(days=RETENTION_DAYS)
     cache = load_cache()
 
+    # MIGRACJA: podmień kategorie w już zapisanych wpisach (slug -> ładna nazwa)
+    changed = False
+    for k, v in list(cache.items()):
+        cat_slug = v.get("category_slug") or v.get("category")
+        if cat_slug:
+            nice = pretty_category(cat_slug)
+            if v.get("category") != nice:
+                v["category"] = nice            # ładna nazwa z ogonkami
+                v["category_slug"] = cat_slug   # oryginalny slug
+                changed = True
+    if changed:
+        save_cache(cache)
+
     print("➡️ Początek aktualizacji cache")
 
     for url in FEED_URLS:
@@ -148,12 +161,13 @@ def update_cache():
         feed = feedparser.parse(response.content)
         soup = BeautifulSoup(response.content, 'xml')
         entries_raw = soup.find_all('entry')
-        category = get_category_from_url(url)
+        category = get_category_from_url(url)  # slug z URL-a
 
         for raw_entry, parsed_entry in zip(entries_raw, feed.entries):
-            published = datetime(*parsed_entry.published_parsed[:6])
+            published = datetime(*parsed_entry.published_parsed[:6])  # bez TZ – wyrównamy przy zapisie/porównaniu
             entry_id = parsed_entry.id if "id" in parsed_entry else parsed_entry.link
 
+            # dedup po linku
             if any(parsed_entry.link == v["link"] for v in cache.values()):
                 print(f"⏭️ Pomijam duplikat: {parsed_entry.link}")
                 continue
@@ -164,16 +178,19 @@ def update_cache():
 
                 print(f"📦 Summary dla {parsed_entry.link}:\n{summary_raw}\n---")
 
+                cat_slug = category
                 cache[entry_id] = {
                     "title": parsed_entry.title,
                     "link": parsed_entry.link,
                     "published": published.isoformat(),
                     "summary": summary_raw,
                     "id": entry_id,
-                    "category": category,
+                    "category": pretty_category(cat_slug),   # ładna nazwa z ogonkami
+                    "category_slug": cat_slug,               # zachowujemy slug
                     "image": parsed_entry.enclosures[0].href if parsed_entry.enclosures else ""
                 }
 
+    # filtr 7 dni
     filtered = {
         k: v for k, v in cache.items()
         if datetime.fromisoformat(v["published"]).replace(tzinfo=timezone.utc) >= cutoff
@@ -183,6 +200,7 @@ def update_cache():
     print("💾 Zapisuję cache do pliku:", CACHE_FILE)
     save_cache(filtered)
     return filtered
+
 
 
 
