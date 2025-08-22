@@ -55,6 +55,61 @@ FEED_URLS = [
     "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie.feed",
     "https://przegladsportowy.onet.pl/sporty-lotnicze.feed"
 ]
+# Mapowanie slugów z URL na ładne nazwy z polskimi znakami
+CATEGORY_MAP = {
+    "pilka-nozna": "Piłka nożna",
+    "tenis": "Tenis",
+    "siatkowka": "Siatkówka",
+    "koszykowka": "Koszykówka",
+    "zuzel": "Żużel",
+    "alpinizm": "Alpinizm",
+    "ofsajd": "Ofsajd",
+    "czas-na-bieganie": "Czas na bieganie",
+    "esportmania": "Esportmania",
+    "futbol-amerykanski": "Futbol amerykański",
+    "hokej-na-lodzie": "Hokej na lodzie",
+    "jezdziectwo": "Jeździectwo",
+    "kolarstwo": "Kolarstwo",
+    "paraolimpiada": "Paraolimpiada",
+    "snooker": "Snooker",
+    "badminton": "Badminton",
+    "sporty-zimowe/biegi-narciarskie": "Biegi narciarskie",
+    "felietony": "Felietony",
+    "pilka-nozna/futsal": "Futsal",
+    "hokej-na-trawie": "Hokej na trawie",
+    "judo": "Judo",
+    "lekkoatletyka": "Lekkoatletyka",
+    "plywanie": "Pływanie",
+    "rugby": "Rugby",
+    "sport-akademicki": "Sport akademicki",
+    "baseball": "Baseball",
+    "boks": "Boks",
+    "fitness-i-porady": "Fitness i porady",
+    "gimnastyka": "Gimnastyka",
+    "lucznictwo": "Łucznictwo",
+    "igrzyska-olimpijskie": "Igrzyska olimpijskie",
+    "mma": "MMA",
+    "piecioboj-nowoczesny": "Pięciobój nowoczesny",
+    "sporty-zimowe/biathlon": "Biathlon",
+    "drift-masters": "Drift Masters",
+    "formula-1": "Formuła 1",
+    "golf": "Golf",
+    "inne-sporty": "Inne sporty",
+    "sporty-zimowe/lyzwiarstwo": "Łyżwiarstwo",
+    "motorowe": "Motorowe",
+    "pilka-reczna": "Piłka ręczna",
+    "podnoszenie-ciezarow": "Podnoszenie ciężarów",
+    "sporty-zimowe/skoki-narciarskie": "Skoki narciarskie",
+    "sporty-lotnicze": "Sporty lotnicze",
+}
+
+def pretty_category(slug: str) -> str:
+    # Zwróć ładną nazwę; fallback: zamień '-' na spacje i tytułuj
+    if slug in CATEGORY_MAP:
+        return CATEGORY_MAP[slug]
+    # dla ścieżek z '/' sformatuj czytelnie
+    return slug.replace('-', ' ').replace('/', ' / ').title()
+
 CACHE_FILE = 'cache.json'
 OUTPUT_FILE = 'docs/rss.xml'
 RETENTION_DAYS = 7
