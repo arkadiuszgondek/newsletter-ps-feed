@@ -53,7 +53,8 @@ FEED_URLS = [
     "https://przegladsportowy.onet.pl/pilka-reczna.feed",
     "https://przegladsportowy.onet.pl/podnoszenie-ciezarow.feed",
     "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie.feed",
-    "https://przegladsportowy.onet.pl/sporty-lotnicze.feed"
+    "https://przegladsportowy.onet.pl/sporty-lotnicze.feed",
+    "https://przegladsportowy.onet.pl/szachy.feed"
 ]
 # Mapowanie slugów z URL na ładne nazwy z polskimi znakami
 CATEGORY_MAP = {
@@ -101,6 +102,7 @@ CATEGORY_MAP = {
     "podnoszenie-ciezarow": "Podnoszenie ciężarów",
     "sporty-zimowe/skoki-narciarskie": "Skoki narciarskie",
     "sporty-lotnicze": "Sporty lotnicze",
+    "szachy": "Szachy"
 }
 
 def pretty_category(slug: str) -> str:
@@ -201,9 +203,6 @@ def update_cache():
     save_cache(filtered)
     return filtered
 
-
-
-
 def generate_feed(entries):
     fg = FeedGenerator()
     fg.id('fd736935-55ce-469a-bedb-fb4111f9e7b1')
@@ -246,7 +245,6 @@ def generate_feed(entries):
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(xml_declaration_line)
         f.write(rss_content)
-
 
 def main():
     entries = update_cache()
