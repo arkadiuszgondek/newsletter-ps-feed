@@ -2,8 +2,16 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # Mon-Thu + Sat-Sun: co 2h od 06:00 do 24:00 CEST (czyli 04–22 UTC)
-    - cron: '0 4-22/2 * * 0-4,6'
+    # Mon-Wed + Sat-Sun: co 2h od 06:00 do 24:00 CEST (04–22 UTC)
+    - cron: '0 4-22/2 * * 0-3,6'
+
+    # Czwartek: intensywne odświeżanie co 30 min w godz. 10:00–20:00 CEST (08–18 UTC)
+    - cron: '0,30 8-17 * * 4'   # 08:00–17:30 UTC (10:00–19:30 CEST)
+    - cron: '0 18 * * 4'        # 18:00 UTC (20:00 CEST)
+
+    # Czwartek poza tym oknem: co 2h od 06:00–10:00 i 20:00–24:00 CEST (04–08 i 18–22 UTC)
+    - cron: '0 4-7/2 * * 4'     # 04:00, 06:00 UTC (06:00, 08:00 CEST)
+    - cron: '0 20,22 * * 4'     # 20:00, 22:00 UTC (22:00, 24:00 CEST)
 
     # Piątek: okno intensywne 05:00–11:00 CEST co 30 min (03:00–09:00 UTC)
     - cron: '0,30 3-8 * * 5'   # 03:00–08:30 UTC (05:00–10:30 CEST)
