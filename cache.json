@@ -1,14 +1,4 @@
 {
-  "urn:uuid:223bbadd-a9cf-418a-a895-3a210bb1dd91": {
-    "title": "S\u0142odko-gorzki powr\u00f3t do Grand Prix. Janowski wci\u0105\u017c szuka odpowiedzi",
-    "link": "https://przegladsportowy.onet.pl/zuzel/grand-prix/grand-prix-we-wroclawiu-maciej-janowski-wrocil-ale-wciaz-szuka-predkosci/e7enj5d",
-    "published": "2025-09-04T14:30:00",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/1e3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iYTlkZjliYzYyMjU5ZTNjNjE5MGQ3ZmRiOWY3MDQ2Ny5qcGeTlQMAzKDNC7jNBpeTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;W minion\u0105 sobot\u0119, 30 sierpnia Maciej Janowski powr\u00f3ci\u0142 do cyklu Speedway Grand Prix po niemal rocznej przerwie. By\u0142y br\u0105zowy medalista indywidualnych mistrzostw \u015bwiata wzi\u0105\u0142 udzia\u0142 w Grand Prix Polski we Wroc\u0142awiu dzi\u0119ki otrzymanej \"dzikiej karcie\". Polak uzbiera\u0142 sze\u015b\u0107 punkt\u00f3w, a ca\u0142e zawody zako\u0144czy\u0142 na dziesi\u0105tej pozycji. Po turnieju uda\u0142o nam si\u0119 porozmawia\u0107 z wychowankiem miejscowej Sparty. ]]&gt;\n                        ",
-    "id": "urn:uuid:223bbadd-a9cf-418a-a895-3a210bb1dd91",
-    "category": "\u017bu\u017cel",
-    "category_slug": "zuzel",
-    "image": "https://ocdn.eu/sport-images-transforms/1/1e3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iYTlkZjliYzYyMjU5ZTNjNjE5MGQ3ZmRiOWY3MDQ2Ny5qcGeTlQMAzKDNC7jNBpeTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
-  },
   "urn:uuid:7d7efd0e-d1c3-4fc2-9049-a7cbdbc2872a": {
     "title": "Nie pozostawi\u0142y z\u0142udze\u0144 rywalkom. Znamy komplet p\u00f3\u0142finalistek M\u015a",
     "link": "https://przegladsportowy.onet.pl/siatkowka/mistrzostwa-swiata-siatkarek/nie-pozostawily-zludzen-rywalkom-znamy-komplet-polfinalistek-ms/jx1ehkf",
@@ -9938,5 +9928,15 @@
     "category": "Pi\u0142ka r\u0119czna",
     "category_slug": "pilka-reczna",
     "image": "https://ocdn.eu/sport-images-transforms/1/DuNk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lY2NiNjIxYi1mOGIwLTRiNGYtOGNiNC01NjJlYzU2YTA3MTQuanBlZ5OVAwBPzQn-zQWgkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
+  },
+  "urn:uuid:474fec33-cc43-4180-a770-fd8860b2fc1f": {
+    "title": "Donald Trump napisa\u0142 list do Aleksandra \u0141ukaszenki. Wyciek\u0142a tre\u015b\u0107 i zaskakuj\u0105ce nazwisko",
+    "link": "https://przegladsportowy.onet.pl/ofsajd/nie-do-wiary-oto-co-trump-napisal-do-lukaszenki-wyciekla-tresc-listu/16256l1",
+    "published": "2025-09-11T14:33:57",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/Qyfk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81YzRjNTkwNDZkODFhYzRkZmVjZWJkNDIzZWNhMDEwZi5wbmeTlQPNAyLNAmbNHI3NEA-TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;W Mi\u0144sku dosz\u0142o do spotkania Johna Cole'a z Aleksandrem \u0141ukaszenk\u0105. Wys\u0142annik Donalda Trumpa przekaza\u0142 prezydentowi Bia\u0142orusi list od przyw\u00f3dcy USA. Bia\u0142oruskie media ujawni\u0142y jego tre\u015b\u0107, kt\u00f3ra mo\u017ce by\u0107 dla wielu zaskakuj\u0105ca. \"Modlimy si\u0119 o pa\u0144skie zdrowie\" \u2014 napisa\u0142 Trump i z\u0142o\u017cy\u0142 \u0141ukaszence \u017cyczenia urodzinowe. Nie zabrak\u0142o tak\u017ce nawi\u0105zania do... Aryny Sabalenki. Bia\u0142orusinka kilka dni temu wygra\u0142a wielkoszlemowy US Open. ]]&gt;\n                        ",
+    "id": "urn:uuid:474fec33-cc43-4180-a770-fd8860b2fc1f",
+    "category": "Ofsajd",
+    "category_slug": "ofsajd",
+    "image": "https://ocdn.eu/sport-images-transforms/1/Qyfk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81YzRjNTkwNDZkODFhYzRkZmVjZWJkNDIzZWNhMDEwZi5wbmeTlQPNAyLNAmbNHI3NEA-TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
   }
 }
