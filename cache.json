@@ -1,14 +1,4 @@
 {
-  "urn:uuid:5b803131-6c5d-4f9c-aa3d-4e499e892bf1": {
-    "title": "By\u0142 fenomenalnym snajperem. Przyszed\u0142 do mnie i m\u00f3wi: \"Nie mam za co \u017cy\u0107\"",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/reprezentacja-polski/ernest-pohl-przyszedl-do-mnie-i-mowi-nie-mam-za-co-zyc/slmcttx",
-    "published": "2025-09-12T03:30:00",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/5Rrk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNjU0ZjE2NzE4M2E4MDMyYWRiMDAyOGUyMTRhYmNiZi5qcGeTlQMAzJrNCEHNBKSTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Trzydzie\u015bci lat temu odszed\u0142 Ernest Pohl \u2014 najlepszy strzelec w dziejach polskiej ligowej pi\u0142ki i gwiazda wielkiego G\u00f3rnika Zabrze. Jest patronem stadionu przy ulicy Roosevelta i postaci\u0105 dla kibic\u00f3w 14-krotnego mistrza kraju kultow\u0105. Ale nie tylko dla nich. \u2014 To, \u017ce w reprezentacji Polski nie rozegra\u0142 nawet 50 mecz\u00f3w, uwa\u017cam za jaki\u015b \u017cart historii. On w tamtych czasach powinien mie\u0107 ponad 100 takich wyst\u0119p\u00f3w \u2014 powiedzia\u0142 Hubert Kostka, jego m\u0142odszy kolega z klubu i z reprezentacji. ]]&gt;\n                        ",
-    "id": "urn:uuid:5b803131-6c5d-4f9c-aa3d-4e499e892bf1",
-    "category": "Pi\u0142ka no\u017cna",
-    "category_slug": "pilka-nozna",
-    "image": "https://ocdn.eu/sport-images-transforms/1/5Rrk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNjU0ZjE2NzE4M2E4MDMyYWRiMDAyOGUyMTRhYmNiZi5qcGeTlQMAzJrNCEHNBKSTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
-  },
   "urn:uuid:2113f8fb-ae94-4e4f-b978-ea895a4fabc7": {
     "title": "Tak go przekonali. Szef skautingu Lecha Pozna\u0144 t\u0142umaczy si\u0119 z wybor\u00f3w",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/szef-skautingu-lecha-poznan-tlumaczy-sie-z-wyborow-doglebnie-analizowalismy-wywiad/k03v9g9",
@@ -11548,5 +11538,15 @@
     "category": "Skoki narciarskie",
     "category_slug": "sporty-zimowe/skoki-narciarskie",
     "image": "https://ocdn.eu/sport-images-transforms/1/rmWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zY2VmODg5N2NiMTM1MzUxNzFjMDk2ZjUwNDU0YmM2MC5qcGeTlQPNA8bM7s0GTc0DjJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
+  },
+  "urn:uuid:e7f2f51a-825c-4f93-8ae7-2fa28f0abec9": {
+    "title": "Mizerny wyst\u0119p zawodnika Motoru Lublin, a za chwil\u0119 fina\u0142 PGE Ekstraligi!",
+    "link": "https://przegladsportowy.onet.pl/zuzel/wielkie-emocje-w-polfinale-brytyjskiej-premiership/3x4d6dx",
+    "published": "2025-09-18T21:22:00",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/zgpk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jM2Q2ODM4ODU0ZjYwMTEwNWU3MjE3OTRlYmMwMDZhMS5qcGeTlQMBzLrNC7XNBpaTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Sheffield Tigers d\u0142ugo pewnie prowadzili w pierwszym p\u00f3\u0142fina\u0142owym meczu brytyjskiej Premiership i szykowali si\u0119 do pewnego zwyci\u0119stwa, ale kapitalna ko\u0144c\u00f3wka Leicester Lions sprawi\u0142a, \u017ce losy awansu do fina\u0142u pozostaj\u0105 spraw\u0105 otwart\u0105. ]]&gt;\n                        ",
+    "id": "urn:uuid:e7f2f51a-825c-4f93-8ae7-2fa28f0abec9",
+    "category": "\u017bu\u017cel",
+    "category_slug": "zuzel",
+    "image": "https://ocdn.eu/sport-images-transforms/1/zgpk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jM2Q2ODM4ODU0ZjYwMTEwNWU3MjE3OTRlYmMwMDZhMS5qcGeTlQMBzLrNC7XNBpaTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
   }
 }
