@@ -54,7 +54,8 @@ FEED_URLS = [
     "https://przegladsportowy.onet.pl/podnoszenie-ciezarow.feed",
     "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie.feed",
     "https://przegladsportowy.onet.pl/sporty-lotnicze.feed",
-    "https://przegladsportowy.onet.pl/szachy.feed"
+    "https://przegladsportowy.onet.pl/szachy.feed",
+    "https://przegladsportowy.onet.pl/kajakarstwo.feed"
 ]
 # Mapowanie slugów z URL na ładne nazwy z polskimi znakami
 CATEGORY_MAP = {
@@ -102,7 +103,8 @@ CATEGORY_MAP = {
     "podnoszenie-ciezarow": "Podnoszenie ciężarów",
     "sporty-zimowe/skoki-narciarskie": "Skoki narciarskie",
     "sporty-lotnicze": "Sporty lotnicze",
-    "szachy": "Szachy"
+    "szachy": "Szachy",
+    "kajakarstwo": "Kajakarstwo"
 }
 
 def pretty_category(slug: str) -> str:
