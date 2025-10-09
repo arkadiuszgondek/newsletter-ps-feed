@@ -89,16 +89,6 @@
     "category_slug": "ofsajd",
     "image": "https://ocdn.eu/sport-images-transforms/1/ZrSk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84N2FlZjZhN2ZmYjFkNWNkMDI1ZmNjN2Y4YjQ2NTY4Zi5qcGeTlQNPzLnNA53NAgiTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
   },
-  "urn:uuid:66895474-6995-4ee3-a9ed-55a9ad2a00e6": {
-    "title": "To ona wspiera polskiego gwiazdora. O\u015bwiadczy\u0142 si\u0119 jej na rajskich wakacjach",
-    "link": "https://przegladsportowy.onet.pl/ofsajd/to-ona-wspiera-polskiego-gwiazdora-oswiadczyl-sie-jej-na-rajskich-wakacjach/3wrn17p",
-    "published": "2025-10-02T11:31:26",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/aHzk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iYWJjOWYwYjA0MDI4MGNkYzk5ODg2MTFkNWYyZDlhMi5wbmeTlQMEAM0EIM0CUpMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;S\u0105 razem od lat, rzadko m\u00f3wi\u0105 o \u017cyciu prywatnym. Kilka miesi\u0119cy temu gwiazdor Legii Warszawa o\u015bwiadczy\u0142 si\u0119 swojej ukochanej podczas rajskich wakacji. O ich zar\u0119czynach by\u0142o g\u0142o\u015bno. ]]&gt;\n                        ",
-    "id": "urn:uuid:66895474-6995-4ee3-a9ed-55a9ad2a00e6",
-    "category": "Ofsajd",
-    "category_slug": "ofsajd",
-    "image": "https://ocdn.eu/sport-images-transforms/1/aHzk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iYWJjOWYwYjA0MDI4MGNkYzk5ODg2MTFkNWYyZDlhMi5wbmeTlQMEAM0EIM0CUpMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
-  },
   "urn:uuid:9e043e80-ce67-4e68-9ed4-08adc9f25883": {
     "title": "Nietypowa wpadka Microsoftu. Jeden z fan\u00f3w otrzyma\u0142 nowego Xboxa zbyt wcze\u015bnie",
     "link": "https://przegladsportowy.onet.pl/esportmania/gaming/nietypowa-wpadka-microsoftu-jeden-z-fanow-otrzymal-nowego-xboxa-zbyt-wczesnie/6pq87gd",
@@ -10768,5 +10758,15 @@
     "category": "Esportmania",
     "category_slug": "esportmania",
     "image": "https://ocdn.eu/sport-images-transforms/1/fjIk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMmU1MzM1NWEwNGNhY2MzYmNkODA3NTE5ZWE5Y2NmMy5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
+  },
+  "urn:uuid:5ca5d4ca-f543-44bb-bc6e-210f3d72502e": {
+    "title": "Tak Szcz\u0119sny zaskoczy\u0142 Grzegorza Krychowiaka. \"Wygl\u0105da jak nie Wojtek\"",
+    "link": "https://przegladsportowy.onet.pl/ofsajd/tak-szczesny-zaskoczyl-grzegorza-krychowiaka-wyglada-jak-nie-wojtek/ttbexfk",
+    "published": "2025-10-09T11:22:59",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/8B3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kNmFhMTQ2NTIxNjdmZWMxZThjOWFjZjI2NTZjNDY0Yy5wbmeTlQMAL80G5M0D4JMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Grzegorz Krychowiak pojawi\u0142 si\u0119 na premierze filmu o Wojciechu Szcz\u0119snym. Przy okazji oceni\u0142 stylizacj\u0119, jak\u0105 tego wieczora mia\u0142 na sobie bramkarz Barcelony. \"Zaskoczy\u0142 mnie. Wygl\u0105da bardzo elegancko\" \u2014 powiedzia\u0142 dziennikarzom. Zdradzi\u0142 te\u017c, \u017ce jedna rzecz mu si\u0119 nie spodoba\u0142a. Wskaza\u0142, kt\u00f3ra. ]]&gt;\n                        ",
+    "id": "urn:uuid:5ca5d4ca-f543-44bb-bc6e-210f3d72502e",
+    "category": "Ofsajd",
+    "category_slug": "ofsajd",
+    "image": "https://ocdn.eu/sport-images-transforms/1/8B3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kNmFhMTQ2NTIxNjdmZWMxZThjOWFjZjI2NTZjNDY0Yy5wbmeTlQMAL80G5M0D4JMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
   }
 }
