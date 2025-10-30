@@ -1,14 +1,4 @@
 {
-  "urn:uuid:547f9bd7-7dfb-40c1-ada5-ac52b9bd7e86": {
-    "title": "Trener GKS-u Katowice pod wra\u017cenie Korony Kielce. \"Rewelacja sezonu\"",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/trener-gks-u-katowice-pod-wrazenie-korony-kielce-rewelacja-sezonu/d98700b",
-    "published": "2025-10-23T10:10:29",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/V-9k9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83YTdlYTFjNi0wYjY1LTQ2MmQtOGFmMi1mNjBlYWQxMWRkY2EuanBlZ5OVA80CQczqzQWDzQMakwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;GKS Katowice w poprzedniej kolejce pi\u0142karskiej ekstraklasy wygra\u0142 na wyje\u017adzie z Motorem Lublin 5:2. W sobot\u0119 katowiczanie podejm\u0105 Koron\u0119 Kielce. \u2014 To jedna z rewelacji tego sezonu \u2014 oceni\u0142 trener gospodarzy Rafa\u0142 G\u00f3rak. ]]&gt;\n                        ",
-    "id": "urn:uuid:547f9bd7-7dfb-40c1-ada5-ac52b9bd7e86",
-    "category": "Pi\u0142ka no\u017cna",
-    "category_slug": "pilka-nozna",
-    "image": "https://ocdn.eu/sport-images-transforms/1/V-9k9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83YTdlYTFjNi0wYjY1LTQ2MmQtOGFmMi1mNjBlYWQxMWRkY2EuanBlZ5OVA80CQczqzQWDzQMakwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
-  },
   "urn:uuid:fd73096c-f52c-4239-a46e-60fd835a687c": {
     "title": "Iga \u015awi\u0105tek ma nowy przydomek! Tak j\u0105 nazwali",
     "link": "https://przegladsportowy.onet.pl/tenis/iga-swiatek-ma-nowy-przydomek-tak-ja-nazwali/rfzmeq1",
@@ -10168,5 +10158,25 @@
     "category": "Ofsajd",
     "category_slug": "ofsajd",
     "image": "https://ocdn.eu/sport-images-transforms/1/KZ_k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NmNiY2NhZTk4MjU2YzY2NDMzYmNiYjhiNmFmNzFiYS5qcGeTlQMAzQHxzROIzQr8kwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
+  },
+  "urn:uuid:ce04df99-4d44-41ca-be08-cbf6f69e68ba": {
+    "title": "To si\u0119 dzieje. Du\u017cy transfer Sebastiana Szyma\u0144skiego ju\u017c zim\u0105! Media: oto kwota i klub",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/polacy-za-granica/to-sie-dzieje-duzy-transfer-szymanskiego-juz-zima-media-oto-kwota-i-klub/29e0ftg",
+    "published": "2025-10-30T10:20:01",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/g39k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lMjg0YTcyMzU0NGZhOWZkZWFmMmQ0NDViODJmMjg5NS5qcGeTlQPMqMz2zQ2rzQewkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;Plotki o odej\u015bciu Sebastiana Szyma\u0144skiego z Fenerbahce Stambu\u0142 kr\u0105\u017c\u0105 ju\u017c od kilku miesi\u0119cy, ale teraz nabieraj\u0105 one realnych kszta\u0142t\u00f3w. Wed\u0142ug francuskich medi\u00f3w reprezentant Polski zmieni Turcj\u0119 na Ligue 1 i to ju\u017c w najbli\u017cszym okienku transferowym. Od stycznia Polak ma zosta\u0107 zawodnikiem Olympique'u Lyon. A kwota przenosin robi du\u017ce wra\u017cenie. ]]&gt;\n                        ",
+    "id": "urn:uuid:ce04df99-4d44-41ca-be08-cbf6f69e68ba",
+    "category": "Pi\u0142ka no\u017cna",
+    "category_slug": "pilka-nozna",
+    "image": "https://ocdn.eu/sport-images-transforms/1/g39k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lMjg0YTcyMzU0NGZhOWZkZWFmMmQ0NDViODJmMjg5NS5qcGeTlQPMqMz2zQ2rzQewkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
+  },
+  "urn:uuid:b44d90dc-10a1-47b6-9fba-e7d06a6e651d": {
+    "title": "Polina Jacenko - Katarzyna Kawa [RELACJA NA \u017bYWO]",
+    "link": "https://przegladsportowy.onet.pl/tenis/polina-jacenko-katarzyna-kawa-relacja-na-zywo-wta-250-madras-live/5qpkxcy",
+    "published": "2025-10-30T09:45:00",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/VCGk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NWM4MDU4ZDkwMmI0NDg4NzBkNjcyYjE1ZmJkY2EyYi5qcGeTlQMAzQE1zRdwzQ0vkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;Polina Jacenko - Katarzyna Kawa to mecz 2. rundy turnieju WTA 250 w indyjskim Madras. Reprezentantka Polski na starcie rywalizacji po emocjonuj\u0105cym pojedynku okaza\u0142a si\u0119 lepsza od wy\u017cej notowanej Lucii Bronzetti. Teraz z kolei to nasza rodaczka wydaje si\u0119 faworytk\u0105 dzisiejszego pojedynku. ]]&gt;\n                        ",
+    "id": "urn:uuid:b44d90dc-10a1-47b6-9fba-e7d06a6e651d",
+    "category": "Tenis",
+    "category_slug": "tenis",
+    "image": "https://ocdn.eu/sport-images-transforms/1/VCGk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NWM4MDU4ZDkwMmI0NDg4NzBkNjcyYjE1ZmJkY2EyYi5qcGeTlQMAzQE1zRdwzQ0vkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
   }
 }
