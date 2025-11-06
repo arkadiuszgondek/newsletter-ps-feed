@@ -9,16 +9,6 @@
     "category_slug": "pilka-nozna",
     "image": "https://ocdn.eu/sport-images-transforms/1/g39k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lMjg0YTcyMzU0NGZhOWZkZWFmMmQ0NDViODJmMjg5NS5qcGeTlQPMqMz2zQ2rzQewkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
   },
-  "urn:uuid:b44d90dc-10a1-47b6-9fba-e7d06a6e651d": {
-    "title": "Polina Jacenko - Katarzyna Kawa [RELACJA NA \u017bYWO]",
-    "link": "https://przegladsportowy.onet.pl/tenis/polina-jacenko-katarzyna-kawa-relacja-na-zywo-wta-250-madras-live/5qpkxcy",
-    "published": "2025-10-30T09:45:00",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/VCGk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NWM4MDU4ZDkwMmI0NDg4NzBkNjcyYjE1ZmJkY2EyYi5qcGeTlQMAzQE1zRdwzQ0vkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;Polina Jacenko - Katarzyna Kawa to mecz 2. rundy turnieju WTA 250 w indyjskim Madras. Reprezentantka Polski na starcie rywalizacji po emocjonuj\u0105cym pojedynku okaza\u0142a si\u0119 lepsza od wy\u017cej notowanej Lucii Bronzetti. Teraz z kolei to nasza rodaczka wydaje si\u0119 faworytk\u0105 dzisiejszego pojedynku. ]]&gt;\n                        ",
-    "id": "urn:uuid:b44d90dc-10a1-47b6-9fba-e7d06a6e651d",
-    "category": "Tenis",
-    "category_slug": "tenis",
-    "image": "https://ocdn.eu/sport-images-transforms/1/VCGk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NWM4MDU4ZDkwMmI0NDg4NzBkNjcyYjE1ZmJkY2EyYi5qcGeTlQMAzQE1zRdwzQ0vkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
-  },
   "urn:uuid:b0582d02-b306-45d5-9a19-84cf5155c18d": {
     "title": "Wyciek\u0142o niepublikowane zdj\u0119cie gwiazdy LaLigi. To wa\u017cne dla... Roberta Lewandowskiego",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/laliga/gruchnely-wiesci-o-nastepcy-lewandowskiego-pokazali-niepublikowane-zdjecie/x2s0dxw",
@@ -10488,5 +10478,15 @@
     "category": "Pi\u0142ka no\u017cna",
     "category_slug": "pilka-nozna",
     "image": "https://ocdn.eu/sport-images-transforms/1/seMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kYTIwZDU5NzQ4OTY0YTQ3YjI2MTdjN2MyYmFhMzYyNy5wbmeTlQMAFc0DTs0B25MFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
+  },
+  "urn:uuid:ef1e1a69-e926-4cf8-ab21-cf23629ffa42": {
+    "title": "Micha\u0142 Probierz ju\u017c tak nie wygl\u0105da. Ludzie b\u0119d\u0105 zaskoczeni na ten widok",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/michal-probierz-juz-tak-nie-wyglada-ludzie-beda-zaskoczeni-na-ten-widok/0x1j34x",
+    "published": "2025-11-06T09:39:07",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/60xk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZjJkMDFhZmU5MzJmNTA0Y2UwY2EyMGU3ZmY1OGNiZi5qcGeTlQPNAvgyzQ-gzQjKkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;Micha\u0142 Probierz, by\u0142y selekcjoner reprezentacji Polski, zaskoczy\u0142 fan\u00f3w swoim nowym wizerunkiem. W kr\u00f3tkim nagraniu opublikowanym w mediach spo\u0142eczno\u015bciowych trener pojawia si\u0119 u barbera, a po chwili\u2026 zostaje mu tylko w\u0105s! Wszystko w szczytnym celu. ]]&gt;\n                        ",
+    "id": "urn:uuid:ef1e1a69-e926-4cf8-ab21-cf23629ffa42",
+    "category": "Pi\u0142ka no\u017cna",
+    "category_slug": "pilka-nozna",
+    "image": "https://ocdn.eu/sport-images-transforms/1/60xk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZjJkMDFhZmU5MzJmNTA0Y2UwY2EyMGU3ZmY1OGNiZi5qcGeTlQPNAvgyzQ-gzQjKkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
   }
 }
