@@ -1,14 +1,4 @@
 {
-  "urn:uuid:dd872960-90ea-459c-8175-27b8dbf31d35": {
-    "title": "A\u017c si\u0119 wierzy\u0107 nie chce, czym zajmuje si\u0119 teraz Janne Ahonen",
-    "link": "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie/az-sie-wierzyc-nie-chce-czym-zajmuje-sie-teraz-janne-ahonen/xmnmcyb",
-    "published": "2025-11-06T10:37:29",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/IY4k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iOTVjNDg4OTM5Y2JjMzIzZjQ4MjEzMGJkNzdhOTE2Ny5qcGeTlQMAzOPNE_TNCzmTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Janne Ahonen odnalaz\u0142 si\u0119 w zupe\u0142nie nowej roli. Opr\u00f3cz tego, \u017ce od lat pojawia si\u0119 w telewizji w roli eksperta od skok\u00f3w narciarskich w fi\u0144skiej stacji Yle, ma te\u017c sta\u0142\u0105 prac\u0119. Fi\u0144ski dziennik \"Iltalehti\" poda\u0142 w\u0142a\u015bnie szczeg\u00f3\u0142y z jego zawodowego \u017cycia. A\u017c trudno uwierzy\u0107, \u017ce tym zajmuje si\u0119 teraz by\u0142y wielki gwiazdor zimowej dyscypliny. ]]&gt;\n                        ",
-    "id": "urn:uuid:dd872960-90ea-459c-8175-27b8dbf31d35",
-    "category": "Skoki narciarskie",
-    "category_slug": "sporty-zimowe/skoki-narciarskie",
-    "image": "https://ocdn.eu/sport-images-transforms/1/IY4k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iOTVjNDg4OTM5Y2JjMzIzZjQ4MjEzMGJkNzdhOTE2Ny5qcGeTlQMAzOPNE_TNCzmTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
-  },
   "urn:uuid:5d3e8815-0f7b-40d5-96b4-754e3bf3fb42": {
     "title": "Hiszpanie wydali wyrok w sprawie meczu z Lechem Pozna\u0144",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/liga-konferencji-europy/hiszpanie-wydali-wyrok-w-sprawie-meczu-z-lechem-poznan/2f8x0jy",
@@ -9678,5 +9668,15 @@
     "category": "Tenis",
     "category_slug": "tenis",
     "image": "https://ocdn.eu/sport-images-transforms/1/wMMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wNmQ3N2NiMzU2Zjc5MGVkYmQ0NWVkNzdhNTNhNzRkYi5qcGeTlQMAzLvNF3DNDS-TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
+  },
+  "urn:uuid:9c24e661-0fbd-49a4-a6d0-99fe8fe07531": {
+    "title": "\"Wyla\u0142o si\u0119 w reprezentacji Polski\". To mia\u0142o nie ujrze\u0107 \u015bwiat\u0142a dziennego",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/reprezentacja-polski/wylalo-sie-w-reprezentacji-polski-to-mialo-nie-ujrzec-swiatla-dziennego/rj7nqxv",
+    "published": "2025-11-13T10:32:17",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/7U6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ZjE5NWM2MWI2M2NhZjg3ZTg2ZTRhMTExMTRlM2Y1ZC5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Bartosz Slisz nie ukrywa \u2014 jednym z g\u0142\u00f3wnych temat\u00f3w na zgrupowaniu reprezentacji Polski jest aktualnie ksi\u0105\u017cka o Robercie Lewandowskim. \"Mo\u017cna powiedzie\u0107, \u017ce troszk\u0119 si\u0119 wyla\u0142o i ujrza\u0142o \u015bwiat\u0142o dzienne\" \u2014 powiedzia\u0142 pomocnik w rozmowie z serwisem Interia Sport. Wspomnia\u0142 te\u017c o nieobecnym na zgrupowaniu \u0141ukaszu Skorupskim. ]]&gt;\n                        ",
+    "id": "urn:uuid:9c24e661-0fbd-49a4-a6d0-99fe8fe07531",
+    "category": "Pi\u0142ka no\u017cna",
+    "category_slug": "pilka-nozna",
+    "image": "https://ocdn.eu/sport-images-transforms/1/7U6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ZjE5NWM2MWI2M2NhZjg3ZTg2ZTRhMTExMTRlM2Y1ZC5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
   }
 }
