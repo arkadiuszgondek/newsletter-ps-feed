@@ -1,14 +1,4 @@
 {
-  "urn:uuid:0512a1ea-4048-4d06-a0bd-ee4b7b6a5b86": {
-    "title": "Cristiano Ronaldo totalnie zaskoczy\u0142. Naprawd\u0119 to powiedzia\u0142 o Arabii",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/cristiano-ronaldo-totalnie-zaskoczyl-naprawde-to-powiedzial-o-arabii/9vgfvbm",
-    "published": "2025-11-07T07:30:34",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/DZ9k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmRiMGIyNTM4ODY0NWJhOWQ0MDExMzk2OTE1ODhjMy5qcGeTlQPNBWHNARfNDM_NBzWTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Pi\u0142karz Al-Nassr Rijad Cristiano Ronaldo w drugiej cz\u0119\u015bci wywiadu z Piersem Morganem powiedzia\u0142, \u017ce liga saudyjska jest znacznie lepsza ni\u017c portugalska i francuska. 40-letni napastnik od trzech sezon\u00f3w gra poza Europ\u0105, ale wci\u0105\u017c jest wa\u017cnym zawodnikiem reprezentacji Portugalii. ]]&gt;\n                        ",
-    "id": "urn:uuid:0512a1ea-4048-4d06-a0bd-ee4b7b6a5b86",
-    "category": "Pi\u0142ka no\u017cna",
-    "category_slug": "pilka-nozna",
-    "image": "https://ocdn.eu/sport-images-transforms/1/DZ9k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmRiMGIyNTM4ODY0NWJhOWQ0MDExMzk2OTE1ODhjMy5qcGeTlQPNBWHNARfNDM_NBzWTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
-  },
   "urn:uuid:7d229c48-3268-43aa-a0ea-a32b6ef127f2": {
     "title": "Skandal. Posz\u0142o o transparent w Lidze Europy. \"UEFA musi ich wyrzuci\u0107\"",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/liga-konferencji-europy/straszna-wiadomosc-sasiedzi-polski-wzywali-do-wojny-uefa-musi-ich-wyrzucic/e4289hv",
@@ -9648,5 +9638,15 @@
     "category": "Pi\u0142ka no\u017cna",
     "category_slug": "pilka-nozna",
     "image": "https://ocdn.eu/sport-images-transforms/1/OInk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNDc4YzkwNWRjZGI2OTUzYjU2Yzg1MGU1OGI3ZWI1Yy5qcGeTlQMAzIbNELzNCWmTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
+  },
+  "urn:uuid:0e0d122c-87da-4c2f-a5b3-ac89796d266c": {
+    "title": "Tak Anna Lewandowska sp\u0119dza czas w Chicago. Odwiedzi\u0142a s\u0142ynne miejsce",
+    "link": "https://przegladsportowy.onet.pl/ofsajd/anna-lewandowska-odwiedzila-slynne-miejsce-zna-je-kazdy-polak/n6e50dq",
+    "published": "2025-11-14T07:35:21",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/EADk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMWZlMWVmNWVmNTZmY2EwNmY1OWE4ZDA5ZGZjOWM1NC5qcGeTlQPM7cyNzQKnzQF-kwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;Anna Lewandowska relacjonuje w sieci sw\u00f3j pobyt w Stanach Zjednoczonych. Tym razem pokaza\u0142a na Instagramie kilka kadr\u00f3w z Chicago. Przy okazji odwiedzi\u0142a te\u017c s\u0142ynne miejsce. ]]&gt;\n                        ",
+    "id": "urn:uuid:0e0d122c-87da-4c2f-a5b3-ac89796d266c",
+    "category": "Ofsajd",
+    "category_slug": "ofsajd",
+    "image": "https://ocdn.eu/sport-images-transforms/1/EADk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMWZlMWVmNWVmNTZmY2EwNmY1OWE4ZDA5ZGZjOWM1NC5qcGeTlQPM7cyNzQKnzQF-kwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
   }
 }
