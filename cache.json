@@ -1,14 +1,4 @@
 {
-  "urn:uuid:9c24e661-0fbd-49a4-a6d0-99fe8fe07531": {
-    "title": "\"Wyla\u0142o si\u0119 w reprezentacji Polski\". To mia\u0142o nie ujrze\u0107 \u015bwiat\u0142a dziennego",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/reprezentacja-polski/wylalo-sie-w-reprezentacji-polski-to-mialo-nie-ujrzec-swiatla-dziennego/rj7nqxv",
-    "published": "2025-11-13T10:32:17",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/7U6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ZjE5NWM2MWI2M2NhZjg3ZTg2ZTRhMTExMTRlM2Y1ZC5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Bartosz Slisz nie ukrywa \u2014 jednym z g\u0142\u00f3wnych temat\u00f3w na zgrupowaniu reprezentacji Polski jest aktualnie ksi\u0105\u017cka o Robercie Lewandowskim. \"Mo\u017cna powiedzie\u0107, \u017ce troszk\u0119 si\u0119 wyla\u0142o i ujrza\u0142o \u015bwiat\u0142o dzienne\" \u2014 powiedzia\u0142 pomocnik w rozmowie z serwisem Interia Sport. Wspomnia\u0142 te\u017c o nieobecnym na zgrupowaniu \u0141ukaszu Skorupskim. ]]&gt;\n                        ",
-    "id": "urn:uuid:9c24e661-0fbd-49a4-a6d0-99fe8fe07531",
-    "category": "Pi\u0142ka no\u017cna",
-    "category_slug": "pilka-nozna",
-    "image": "https://ocdn.eu/sport-images-transforms/1/7U6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ZjE5NWM2MWI2M2NhZjg3ZTg2ZTRhMTExMTRlM2Y1ZC5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
-  },
   "urn:uuid:89545f38-f190-46cd-9f9c-789c578e781e": {
     "title": "Mecz reprezentacji Polski. O kt\u00f3rej i gdzie ogl\u0105da\u0107 spotkanie Polska - Holandia?",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/reprezentacja-polski/mecz-reprezentacji-polski-o-ktorej-i-gdzie-ogladac-spotkanie-polska-holandia/f9040j4",
@@ -10628,5 +10618,15 @@
     "category": "Formu\u0142a 1",
     "category_slug": "formula-1",
     "image": "https://ocdn.eu/sport-images-transforms/1/C3Tk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82ZmU4N2E4N2JiY2NkYmVlY2I3NWE0NGNhOGJiM2U3NC5qcGeTlQMAzJ3NC7jNBpeTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
+  },
+  "urn:uuid:aa3bd37b-9f15-4501-b102-34d38c419481": {
+    "title": "Tragedia w rodzinie Przemys\u0142awa Babiarza. TVP potwierdza",
+    "link": "https://przegladsportowy.onet.pl/ofsajd/tragedia-w-rodzinie-przemyslawa-babiarza-tvp-potwierdza/3nkgqlj",
+    "published": "2025-11-20T10:33:01",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/8HRk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jZTRhNDVhM2NjZDJhYTM3MTNkYjRiYTE5MGE4MzY1Zi5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Dotar\u0142y do nas smutne wie\u015bci. Nie \u017cyje Marzena Babiarz, \u017cona dziennikarza sportowego TVP Przemys\u0142awa Babiarza. Jako pierwsze o \u015bmierci kobiety poinformowa\u0142o miasto Przemy\u015bl. Nast\u0119pnie potwierdzi\u0142a je redakcja TVP Sport, publikuj\u0105c wpis na X. Redakcja Przegl\u0105du Sportowego Onet sk\u0142ada najszczersze kondolencje Przemys\u0142awowi Babiarzowi. ]]&gt;\n                        ",
+    "id": "urn:uuid:aa3bd37b-9f15-4501-b102-34d38c419481",
+    "category": "Ofsajd",
+    "category_slug": "ofsajd",
+    "image": "https://ocdn.eu/sport-images-transforms/1/8HRk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jZTRhNDVhM2NjZDJhYTM3MTNkYjRiYTE5MGE4MzY1Zi5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
   }
 }
