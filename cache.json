@@ -1,14 +1,4 @@
 {
-  "urn:uuid:3e99172e-c894-48ab-bba6-8065d2b5d3f4": {
-    "title": "Ekipy z podium PKO Bank Polski Ekstraklasy zagraj\u0105 ju\u017c w pi\u0105tek! Emocje w 16. kolejce",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/ekipy-z-podium-ekstraklasy-zagraja-juz-w-piatek-emocje-w-16-kolejce/x96c56k",
-    "published": "2025-11-20T11:25:49",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/wh6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xODczODEwNjJlNWIwNDBlYzkxYmI4NDlkZWQyNDgyMi5qcGeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Wraca Ekstraklasa! Kibice ekscytuj\u0105cy si\u0119 wydarzeniami z polskiej ligi wytrzymali jeszcze jedn\u0105 przerw\u0105 reprezentacyjn\u0105, ale ju\u017c w pi\u0105tek wracaj\u0105 ulubione rozgrywki! 16. kolejk\u0119 PKO Bank Polski Ekstraklasy zaczynamy w Niecieczy, a jeszcze tego samego dnia czeka nas starcie wa\u017cne dla uk\u0142adu czo\u0142\u00f3wki. Jak o \u017cycie walczy\u0107 b\u0119dzie te\u017c Legia Warszawa. ]]&gt;\n                        ",
-    "id": "urn:uuid:3e99172e-c894-48ab-bba6-8065d2b5d3f4",
-    "category": "Pi\u0142ka no\u017cna",
-    "category_slug": "pilka-nozna",
-    "image": "https://ocdn.eu/sport-images-transforms/1/wh6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xODczODEwNjJlNWIwNDBlYzkxYmI4NDlkZWQyNDgyMi5qcGeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
-  },
   "urn:uuid:dd178f06-b073-4e0d-a810-22ff26f80289": {
     "title": "Losowanie marze\u0144! Oto droga Polski w bara\u017cach o M\u015a 2026",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/reprezentacja-polski/losowanie-marzen-oto-droga-polski-w-barazach-o-ms-2026/1wq42gm",
@@ -10398,5 +10388,15 @@
     "category": "Inne sporty",
     "category_slug": "inne-sporty",
     "image": "https://ocdn.eu/sport-images-transforms/1/-7Qk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iYjI0NDE0YmI3MDcyNDZhZWU3OTc1ODAyN2ZiZmZhMi5qcGeTlQMAY80LuM0Gl5MFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
+  },
+  "urn:uuid:31771403-f1eb-45b9-b493-b973bbf2c50b": {
+    "title": "Trz\u0119sienie ziemi w Cz\u0119stochowie, sensacyjne nazwisko! Oto kogo zatrudni\u0142 Norwid",
+    "link": "https://przegladsportowy.onet.pl/siatkowka/plusliga/trzesienie-ziemi-w-czestochowie-sensacyjne-nazwisko-oto-kogo-zatrudnil-norwid/fm4e769",
+    "published": "2025-11-27T11:30:19",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/mKPk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zY2U1M2MxNTRmNDljNTE0OGQ4MTM0Y2Y4MWNmMDQ5Ny5qcGeTlQMATM0Kcc0F4JMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Steam Hemarpol Norwid Cz\u0119stochowa po \u015brodowej pora\u017cce z Cuprum Stilonem Gorz\u00f3w spad\u0142 na ostatnie miejsce w tabeli PlusLigi. Klub ju\u017c wcze\u015bniej po\u017cegna\u0142 trenera Guillermo Falasc\u0119 oraz podstawowego libero Mateusza Mas\u0142owskiego. Teraz poznali\u015bmy nowego szkoleniowca i jest to zaskoczenie. Wraca on do Polski po 14 latach. ]]&gt;\n                        ",
+    "id": "urn:uuid:31771403-f1eb-45b9-b493-b973bbf2c50b",
+    "category": "Siatk\u00f3wka",
+    "category_slug": "siatkowka",
+    "image": "https://ocdn.eu/sport-images-transforms/1/mKPk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zY2U1M2MxNTRmNDljNTE0OGQ4MTM0Y2Y4MWNmMDQ5Ny5qcGeTlQMATM0Kcc0F4JMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
   }
 }
