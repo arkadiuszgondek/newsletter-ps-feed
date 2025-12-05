@@ -1,24 +1,4 @@
 {
-  "urn:uuid:a63f9b96-00bc-460a-937e-670f24eeffc4": {
-    "title": "Rados\u0142aw Sikorski zobaczy\u0142 zdj\u0119cie i nie wytrzyma\u0142. Bardzo mocny wpis",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/liga-konferencji-europy/radoslaw-sikorski-zobaczyl-zdjecie-i-nie-wytrzymal-bardzo-mocny-wpis/p1g22mk",
-    "published": "2025-11-28T08:54:22",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/CSyk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xN2UyNjFhNzdiZGEzY2E4MDQ5YTZiYjNhNjllNzBlNy5qcGeTlQPNAzTNAQ3NB43NBD6TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Wystarczy\u0142o jedno zdj\u0119cie ze stadionu Legii Warszawa z meczu Ligi Konferencji, by wywo\u0142a\u0107 burz\u0119 w sieci. Gdy zobaczy\u0142 je minister spraw zagranicznych, nie zamierza\u0142 milcze\u0107. Okazuje si\u0119, \u017ce mecz ze Spart\u0105 Praga z sektora rodzinnego ogl\u0105da\u0142 Grzegorz Braun i Janusz Walu\u015b. Komentarz Rados\u0142awa Sikorskiego na ten temat jest jednoznaczny i wyj\u0105tkowo mocny. ]]&gt;\n                        ",
-    "id": "urn:uuid:a63f9b96-00bc-460a-937e-670f24eeffc4",
-    "category": "Pi\u0142ka no\u017cna",
-    "category_slug": "pilka-nozna",
-    "image": "https://ocdn.eu/sport-images-transforms/1/CSyk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xN2UyNjFhNzdiZGEzY2E4MDQ5YTZiYjNhNjllNzBlNy5qcGeTlQPNAzTNAQ3NB43NBD6TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
-  },
-  "urn:uuid:dd890234-0850-4fe7-90d3-8f2cab286d8d": {
-    "title": "Wojciech Szcz\u0119sny zobaczy\u0142, jak gwiazda p\u0142acze. Oto co zrobi\u0142",
-    "link": "https://przegladsportowy.onet.pl/ofsajd/wojciech-szczesny-zobaczyl-jak-gwiazda-placze-oto-co-zrobil/wzcx7j5",
-    "published": "2025-11-28T09:03:08",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/g0Ak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZjcyZGRiMGM1YzQ2MWNiZTRiZDRjNTgwMmNmMjk1My5qcGeTlQMAzIzNEZTNCeOTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Wojciech Szcz\u0119sny nie raz pokaza\u0142, \u017ce ma g\u0142ow\u0119 na karku, a teraz zaskoczy\u0142 s\u0142owami, kt\u00f3re powiedzia\u0142 do p\u0142acz\u0105cego Gerarda Martina po przegranym p\u00f3\u0142finale Ligi Mistrz\u00f3w z Interem Mediolan. W rozmowie z \"GQ Poland\" golkiper Barcelony nie owija\u0142 w bawe\u0142n\u0119. Da\u0142 koledze cenn\u0105 lekcj\u0119. ]]&gt;\n                        ",
-    "id": "urn:uuid:dd890234-0850-4fe7-90d3-8f2cab286d8d",
-    "category": "Ofsajd",
-    "category_slug": "ofsajd",
-    "image": "https://ocdn.eu/sport-images-transforms/1/g0Ak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZjcyZGRiMGM1YzQ2MWNiZTRiZDRjNTgwMmNmMjk1My5qcGeTlQMAzIzNEZTNCeOTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
-  },
   "urn:uuid:ecccce04-25ab-424e-a599-c286a6475a84": {
     "title": "Gwiazda wpad\u0142a w amok na Ok\u0119ciu. \"J\u00f3zek zawali\u0142\". Podzia\u0142 trwa do dzi\u015b",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/gwiazda-wpadla-w-amok-na-okeciu-jozek-zawalil-podzial-trwa-do-dzis/c0vwfnn",
@@ -10278,5 +10258,35 @@
     "category": "Plebiscyt Przegl\u0105du Sportowego",
     "category_slug": "plebiscyt-przegladu-sportowego",
     "image": "https://ocdn.eu/sport-images-transforms/1/yJQk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80ZWMyNjI0OTdmYjYwNWE3NjAzNTA4OTgzNjRhZjYzNS5qcGeTlQMAzITNEI3NCU-TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
+  },
+  "urn:uuid:716462e0-e3b6-4f9b-b18b-509fbc61047b": {
+    "title": "Szykuje si\u0119 generalny remont w Legii. \"Z tej dru\u017cyny nic si\u0119 nie ulepi\"",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/szykuje-sie-generalny-remont-w-legii-z-tej-druzyny-nic-sie-nie-ulepi/rj8vhxm",
+    "published": "2025-12-05T09:09:00",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/O7Pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83YWM2MzM3OWJkMTA4N2Q4ZTc3NzY5ZjU2MjI4NDE0MS5qcGeTlQMAzLvNF3DNDS-TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;\u2014 Przecie\u017c najbli\u017cszy mecz, z Piastem mo\u017ce sprawi\u0107, \u017ce Legia jeszcze bardziej urz\u0105dzi si\u0119 w d...e, a jej sytuacja stanie si\u0119 dramatyczna \u2014 m\u00f3wi Rados\u0142aw Ka\u0142u\u017cny, by\u0142y reprezentant Polski, o obecnej sytuacji Legii Warszawa, kt\u00f3ra od 23 pa\u017adziernika nie potrafi wygra\u0107 meczu. Telenowela z Markiem Papszunem nadal trwa. ]]&gt;\n                        ",
+    "id": "urn:uuid:716462e0-e3b6-4f9b-b18b-509fbc61047b",
+    "category": "Pi\u0142ka no\u017cna",
+    "category_slug": "pilka-nozna",
+    "image": "https://ocdn.eu/sport-images-transforms/1/O7Pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83YWM2MzM3OWJkMTA4N2Q4ZTc3NzY5ZjU2MjI4NDE0MS5qcGeTlQMAzLvNF3DNDS-TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
+  },
+  "urn:uuid:efc4f40c-2dca-4297-a12d-39f2f5b2afcd": {
+    "title": "Oto potencjalnie rywale Polski. Tak wygl\u0105daj\u0105 koszyki na M\u015a 2026",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/eliminacje-ms/oto-potencjalnie-rywale-polski-tak-wygladaja-koszyki-na-ms-2026/mj94hv7",
+    "published": "2025-12-05T08:55:04",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/3BOk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNGRiYzJlYzhiZGE5YzIxN2ZlMjg5YmYyNTFjMmM2OS5qcGeTlQMAzQHxzQsTzQY7kwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;Ju\u017c dzi\u015b losowanie grup mistrzostw \u015bwiata w USA, Meksyku i Kanadzie! Cho\u0107 Polacy jeszcze nie awansowali na mundial, poznaj\u0105 swoich potencjalnych rywali. Sprawd\u017a, jak wygl\u0105daj\u0105 koszyki. ]]&gt;\n                        ",
+    "id": "urn:uuid:efc4f40c-2dca-4297-a12d-39f2f5b2afcd",
+    "category": "Pi\u0142ka no\u017cna",
+    "category_slug": "pilka-nozna",
+    "image": "https://ocdn.eu/sport-images-transforms/1/3BOk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNGRiYzJlYzhiZGE5YzIxN2ZlMjg5YmYyNTFjMmM2OS5qcGeTlQMAzQHxzQsTzQY7kwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
+  },
+  "urn:uuid:cf395c53-c4be-4165-b41f-8e5f95213e7a": {
+    "title": "Ma\u0142ysz zn\u00f3w zmierzy si\u0119 z wielkimi rywalami. Red Bull Skoki w Punkt wracaj\u0105 do Zakopanego!",
+    "link": "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie/malysz-znow-zmierzy-sie-z-wielkimi-rywalami-red-bull-skoki-w-punkt-wracaja-do/pkxtb4n",
+    "published": "2025-12-05T09:02:19",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/8qpk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMGU5ZTAzZThkNjA3ODhlZjQ5OTI0NTlmZDA4M2VjNi5qcGeTlQMAzP_NCZjNBWaTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Jedyne na \u015bwiecie dru\u017cynowe zawody w skokach narciarskich na celno\u015b\u0107 wracaj\u0105 do Zakopanego. 1 kwietnia 2026, tu\u017c po zako\u0144czeniu Pucharu \u015awiata, najlepsi zawodnicy pod wodz\u0105 legend dyscypliny ponownie wystartuj\u0105 w Red Bull Skoki w Punkt na Wielkiej Krokwi. Adama Ma\u0142ysza czeka potyczka z odwiecznym rywalem, Janne Ahonenem. Sprzeda\u017c bilet\u00f3w na 2. edycj\u0119 imprezy ju\u017c wystartowa\u0142a. Szczeg\u00f3\u0142owe informacje s\u0105 dost\u0119pne na stronie redbull.pl/skoki. ]]&gt;\n                        ",
+    "id": "urn:uuid:cf395c53-c4be-4165-b41f-8e5f95213e7a",
+    "category": "Skoki narciarskie",
+    "category_slug": "sporty-zimowe/skoki-narciarskie",
+    "image": "https://ocdn.eu/sport-images-transforms/1/8qpk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMGU5ZTAzZThkNjA3ODhlZjQ5OTI0NTlmZDA4M2VjNi5qcGeTlQMAzP_NCZjNBWaTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
   }
 }
