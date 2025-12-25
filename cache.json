@@ -1,14 +1,4 @@
 {
-  "urn:uuid:c8419713-5c02-41db-9180-8a25a2728f88": {
-    "title": "Mo\u017ce wr\u00f3ci\u0107 do P\u015a w skokach narciarskich. Chwali\u0142 si\u0119 wizyt\u0105 u W\u0142adimira Putina",
-    "link": "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie/moze-wrocic-do-ps-w-skokach-narciarskich-chwalil-sie-wizyta-u-wladimira-putina/vkstgxv",
-    "published": "2025-12-18T11:18:57",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/Fjnk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hZjAzM2I2NmIzOWU4MmJmZDAwNmViODU2ZjQ1NTMyZS5qcGeTlQPNAwBIzQgVzQSLkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;Dani\u0142 Sadriejew jest jednym ze rosyjskich skoczk\u00f3w, kt\u00f3rzy dzi\u0119ki decyzji Trybuna\u0142u Arbitra\u017cowego ds. Sportu mo\u017ce wr\u00f3ci\u0107 do rywalizacji w Pucharze \u015awiata. W teorii spe\u0142nia on wymogi postawione przez CAS, lecz ju\u017c w praktyce nie jest ju\u017c tak nieskazitelny, a wszystko przez jedno nagranie z Kremla. ]]&gt;\n                        ",
-    "id": "urn:uuid:c8419713-5c02-41db-9180-8a25a2728f88",
-    "category": "Skoki narciarskie",
-    "category_slug": "sporty-zimowe/skoki-narciarskie",
-    "image": "https://ocdn.eu/sport-images-transforms/1/Fjnk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hZjAzM2I2NmIzOWU4MmJmZDAwNmViODU2ZjQ1NTMyZS5qcGeTlQPNAwBIzQgVzQSLkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
-  },
   "urn:uuid:a1b3f92a-be5e-4482-ad03-06189f1efa69": {
     "title": "Wprowadzili o\u015bmiu pi\u0142karzy z \u0142awki. Na trybunach szok. Tak dzia\u0142a \"bia\u0142a zmiana\"",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/wprowadzili-osmiu-pilkarzy-z-lawki-na-trybunach-szok-tak-dziala-biala-zmiana/gm1hxpj",
@@ -7428,5 +7418,55 @@
     "category": "Ofsajd",
     "category_slug": "ofsajd",
     "image": "https://ocdn.eu/sport-images-transforms/1/0Lbk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wOTMzMDYyYjBiM2VlZmQ1YzEwN2ExM2U2OWE0YjEwMi5qcGeTlQPMoMzvzRJpzQpckwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
+  },
+  "urn:uuid:913c84de-d0d3-49e9-92e1-0eb6b4e0de51": {
+    "title": "Skandal z Polakami w Brazylii. Tak \"odp\u0142acili\" za go\u015bcin\u0119",
+    "link": "https://przegladsportowy.onet.pl/siatkowka/skandal-z-polakami-w-brazylii-tak-odplacili-za-goscine/jdgbblw",
+    "published": "2025-12-25T10:55:01",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/ce9k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80MTBlMmVmMDI0ZWFlZmZmYzUyZDNhNjljOTNmNjlhMi5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Wyjazd Aluronu CMC Warty Zawiercie do Belem na Klubowe Mistrzostwa \u015awiata sko\u0144czy\u0142 si\u0119 nie tylko br\u0105zowym medalem tej imprezy, ale tak\u017ce... niema\u0142ym skandalem. Na profilach Mateusza Bie\u0144ka i Bartosza Kwolka opublikowana zosta\u0142a adaptacja teledysku do s\u0142ynnej piosenki \"It's Beginning to Look a Lot like Christmas\". W Brazylii wywo\u0142a\u0142o to ogromne poruszenie i to do tego stopnia, \u017ce Bieniek zdecydowa\u0142 si\u0119 opublikowa\u0107 na swoim profilu przeprosiny. Zrobi\u0142 co\u015b jeszcze. Przedstawiamy szczeg\u00f3\u0142y. ]]&gt;\n                        ",
+    "id": "urn:uuid:913c84de-d0d3-49e9-92e1-0eb6b4e0de51",
+    "category": "Siatk\u00f3wka",
+    "category_slug": "siatkowka",
+    "image": "https://ocdn.eu/sport-images-transforms/1/ce9k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80MTBlMmVmMDI0ZWFlZmZmYzUyZDNhNjljOTNmNjlhMi5wbmeTlQMAAM0HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
+  },
+  "urn:uuid:2a6c1800-f5ba-4c32-b753-f8aa31fb30d9": {
+    "title": "Wszystko jasne! Nowe wie\u015bci o stanie zdrowia Luki Doncicia",
+    "link": "https://przegladsportowy.onet.pl/koszykowka/nba/wszystko-jasne-nowe-wiesci-o-stanie-zdrowia-luki-doncicia/85jypp2",
+    "published": "2025-12-25T11:07:32",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/7Ezk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jY2MyYWI0NzgwMzQ2NmMzYjA3ZDI2MmQzMmE0NDUzNi5qcGeTlQPNAsfMn80PC80IdpMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;S\u0142ynny s\u0142owe\u0144ski koszykarz Luka Donci\u0107 wraca do gry po kontuzji \u0142ydki, kt\u00f3ra nie okaza\u0142a si\u0119 zbyt gro\u017ana. Pod jego nieobecno\u015b\u0107 Los Angeles Lakers przegrali dwa spotkania z rz\u0119du w NBA (dozna\u0142 urazu w pierwszym z nich), co nie zdarzy\u0142o si\u0119 im od pocz\u0105tku sezonu. ]]&gt;\n                        ",
+    "id": "urn:uuid:2a6c1800-f5ba-4c32-b753-f8aa31fb30d9",
+    "category": "Koszyk\u00f3wka",
+    "category_slug": "koszykowka",
+    "image": "https://ocdn.eu/sport-images-transforms/1/7Ezk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jY2MyYWI0NzgwMzQ2NmMzYjA3ZDI2MmQzMmE0NDUzNi5qcGeTlQPNAsfMn80PC80IdpMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
+  },
+  "urn:uuid:72d21c23-2ff6-4b70-8531-0e651f2ff41c": {
+    "title": "Dla kogo play-offy w PGE Ekstralidze!? Z\u0142e wie\u015bci dla GKM-u",
+    "link": "https://przegladsportowy.onet.pl/zuzel/dla-kogo-play-offy-w-pge-ekstralidze-ekspert-jest-tego-pewien/bbsfgs9",
+    "published": "2025-12-25T11:00:00",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/O5-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lMzc5YTIwZTFlMTdjZDQwNzAxZWRlNGU3YzhkYmM2Yi5qcGeTlQMAXs0Lt80GlpMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Wydaje si\u0119, \u017ce pierwszy trzy miejsca w PGE Ekstralidze po fazie zasadniczej s\u0105 ju\u017c rozdane. Je\u017celi nie wydarzy si\u0119 w trakcie sezonu 2026 \u017caden kataklizm, to dru\u017cyny z Torunia, Lublina oraz Wroc\u0142awia powinni by\u0107 pewni miejsca w play-offach. Ciekawiej jednak b\u0119dzie wygl\u0105da\u0107 walka o czwarte miejsce pomi\u0119dzy Stelmet Falubazem Zielona G\u00f3ra a Bayersystem GKM-em Grudzi\u0105dz. Obie dru\u017cyny posiadaj\u0105 zbli\u017cone si\u0142y ra\u017cenie. Ekspert Przegl\u0105du Sportowego Onet jednak nie ma \u017cadnych w\u0105tpliwo\u015bci kto, zajmie miejsce w czo\u0142owej czw\u00f3rce. ]]&gt;\n                        ",
+    "id": "urn:uuid:72d21c23-2ff6-4b70-8531-0e651f2ff41c",
+    "category": "\u017bu\u017cel",
+    "category_slug": "zuzel",
+    "image": "https://ocdn.eu/sport-images-transforms/1/O5-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lMzc5YTIwZTFlMTdjZDQwNzAxZWRlNGU3YzhkYmM2Yi5qcGeTlQMAXs0Lt80GlpMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
+  },
+  "urn:uuid:3974e5f2-1ba1-4a9c-b8e2-c1f4067000fb": {
+    "title": "Andrzej Bargiel ma dziesi\u0119cioro rodze\u0144stwa. Tak wygl\u0105daj\u0105 jego \u015bwi\u0119ta",
+    "link": "https://przegladsportowy.onet.pl/alpinizm/andrzej-bargiel-ma-dziesiecioro-rodzenstwa-tak-wygladaja-jego-swieta/wfhhs0q",
+    "published": "2025-12-25T11:10:56",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/H4Pk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zNzc1MGU2NC1hMTA4LTQzY2YtOWI2Yi00ZmMzMjg0YTRmMDUuanBlZ5OVAwAozQT6zQLMkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;Skialpinista Andrzej Bargiel \u2014 zdobywca Everestu (8849 m) i K2 (8611 m), kt\u00f3ry ma dziesi\u0119cioro rodze\u0144stwa \u2014 przyzna\u0142, \u017ce \u015bwi\u0119ta Bo\u017cego Narodzenia w rodzinnym domu w \u0141\u0119towni zawsze by\u0142y weso\u0142e i g\u0142o\u015bne. \u2014 By\u0142 gwar i trudno by\u0142o si\u0119 \"przebi\u0107\" ze s\u0142owem \u2014 wspomnia\u0142 w rozmowie z PAP. ]]&gt;\n                        ",
+    "id": "urn:uuid:3974e5f2-1ba1-4a9c-b8e2-c1f4067000fb",
+    "category": "Alpinizm",
+    "category_slug": "alpinizm",
+    "image": "https://ocdn.eu/sport-images-transforms/1/H4Pk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zNzc1MGU2NC1hMTA4LTQzY2YtOWI2Yi00ZmMzMjg0YTRmMDUuanBlZ5OVAwAozQT6zQLMkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
+  },
+  "urn:uuid:2abe5ad0-d458-4e99-87a2-2fdc73500553": {
+    "title": "Zdj\u0119cie Lewandowskich hitem sieci. Tysi\u0105ce polubie\u0144",
+    "link": "https://przegladsportowy.onet.pl/ofsajd/zdjecie-lewandowskich-hitem-sieci-tysiace-polubien/zcgve3q",
+    "published": "2025-12-25T11:11:25",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/Sj0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wZDI4YzA1MjRlNGM4ZTNjYjczMDg1OWMwNzIyODVjNS5qcGeTlQMATs0J4s0Fj5MFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Robert Lewandowski opublikowa\u0142 na Instagramie zdj\u0119cie, do kt\u00f3rego pozowa\u0142 razem z \u017con\u0105 i c\u00f3rkami. Wszyscy ubrani byli w identyczne pi\u017camy. \"\u015awi\u0105teczny poranek\" \u2014 napisa\u0142 pi\u0142karz. Wpis \"Lewego\" podbija sie\u0107. \u015awi\u0105teczne zdj\u0119cia pokaza\u0142a te\u017c Anna Lewandowska. ]]&gt;\n                        ",
+    "id": "urn:uuid:2abe5ad0-d458-4e99-87a2-2fdc73500553",
+    "category": "Ofsajd",
+    "category_slug": "ofsajd",
+    "image": "https://ocdn.eu/sport-images-transforms/1/Sj0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wZDI4YzA1MjRlNGM4ZTNjYjczMDg1OWMwNzIyODVjNS5qcGeTlQMATs0J4s0Fj5MFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
   }
 }
