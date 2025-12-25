@@ -49,16 +49,6 @@
     "category_slug": "pilka-nozna",
     "image": "https://ocdn.eu/sport-images-transforms/1/J-0k9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85ZTlkM2Q2ZC03ZjFiLTQwN2ItYWZhNi1lNmQ1Y2FhOGE4OTAuanBlZ5OVAwBPzQn-zQWgkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
   },
-  "urn:uuid:e57a397f-ab87-4e4d-851f-62dbdb12fa46": {
-    "title": "A jednak! Taki kontrakt z Legi\u0105 ma podpisa\u0107 Marek Papszun",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/a-jednak-taki-kontrakt-z-legia-ma-podpisac-marek-papszun/9wp797l",
-    "published": "2025-12-18T15:32:54",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/GL7k9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wNzM0MDIzYS02YmQ0LTRhYTMtOTAyZS0yYzRhODNlMTQzODAuanBlZ5OVAwDNAWXNFIPNC42TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Wszystko wskazuje na to, \u017ce w pi\u0105tek, 19 grudnia Marek Papszun zostanie nowym trenerem Legii Warszawa. W mediach pojawia si\u0119 coraz wi\u0119cej informacji dotycz\u0105cych wsp\u00f3\u0142pracy trenera z nowym klubem. Teraz pad\u0142a d\u0142ugo\u015b\u0107 umowy, jak\u0105 podpisa\u0107 ma szkoleniowiec. ]]&gt;\n                        ",
-    "id": "urn:uuid:e57a397f-ab87-4e4d-851f-62dbdb12fa46",
-    "category": "Pi\u0142ka no\u017cna",
-    "category_slug": "pilka-nozna",
-    "image": "https://ocdn.eu/sport-images-transforms/1/GL7k9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wNzM0MDIzYS02YmQ0LTRhYTMtOTAyZS0yYzRhODNlMTQzODAuanBlZ5OVAwDNAWXNFIPNC42TBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
-  },
   "urn:uuid:9a9c89cf-454d-40f7-bf8f-654d2c77465b": {
     "title": "Mocne s\u0142owa o zawodniku Apatora Toru\u0144. \u201eNie gwarantuje nic\u201d",
     "link": "https://przegladsportowy.onet.pl/zuzel/ekstraliga/mocne-slowa-o-zawodniku-apatora-torun-nie-gwarantuje-nic/ndc7y1j",
@@ -7308,5 +7298,15 @@
     "category": "Hokej na lodzie",
     "category_slug": "hokej-na-lodzie",
     "image": "https://ocdn.eu/sport-images-transforms/1/IPZk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hODUzNGJhNS04NmEyLTQ4ZmYtYWQ2My02NTRhMzczOTA1ZWUuanBlZ5KTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
+  },
+  "urn:uuid:5a0e1a42-220e-46da-9a28-c755043c3f4f": {
+    "title": "Nie \u017cyje Jonathan Hawkins. Mia\u0142 42 lata",
+    "link": "https://przegladsportowy.onet.pl/szachy/nie-zyje-jonathan-hawkins-mial-42-lata/w02z2b6",
+    "published": "2025-12-25T15:24:27",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/J1xk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMTk2NGQzYmMzNDA5MjY0MzE1MzZhNWJmZDMyZGJmZi5qcGeTlQMAHM0DhM0B-pMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;W wieku 42 lat zmar\u0142 szachowy arcymistrz Jonathan Hawkins \u2014 donosz\u0105 brytyjskie media. W ostatnim czasie Hawkins wsp\u00f3\u0142pracowa\u0142 ze wschodz\u0105cymi gwiazdami brytyjskich szach\u00f3w. Znany jest ju\u017c pow\u00f3d \u015bmierci Hawkinsa. ]]&gt;\n                        ",
+    "id": "urn:uuid:5a0e1a42-220e-46da-9a28-c755043c3f4f",
+    "category": "Szachy",
+    "category_slug": "szachy",
+    "image": "https://ocdn.eu/sport-images-transforms/1/J1xk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMTk2NGQzYmMzNDA5MjY0MzE1MzZhNWJmZDMyZGJmZi5qcGeTlQMAHM0DhM0B-pMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
   }
 }
