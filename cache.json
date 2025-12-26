@@ -2089,16 +2089,6 @@
     "category_slug": "ofsajd",
     "image": "https://ocdn.eu/sport-images-transforms/1/v03k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYjA0YjNhZjE1MGJhNmY0ZjA5MGY4MGQyYTc1ZGFlYy5qcGeTlQMAzQP7zQyvzQcikwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
   },
-  "urn:uuid:cc67b038-8d0b-45c2-9797-ff2d4a1bc069": {
-    "title": "Studenci z Polski zdominowali AME w sportach zimowych we W\u0142oszech",
-    "link": "https://przegladsportowy.onet.pl/sport-akademicki/studenci-z-polski-zdominowali-ame-w-sportach-zimowych-we-wloszech/hm2zxzb",
-    "published": "2025-12-19T07:30:00",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/A0pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMmYwZDE0ZjZkY2QwOThkNDJkNTExMmFkZjZiZWRmNi5qcGeTlQMAAM0H0M0EZZMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Podczas Akademickich Mistrzostwach Europy w sportach zimowych we w\u0142oskim Val di Zoldo reprezentanci polskich uczelni zdobyli a\u017c 19 medali, z czego a\u017c 7 by\u0142o z\u0142otych. Tym samym zwyci\u0119\u017cyli w klasyfikacji medalowej zawod\u00f3w. ]]&gt;\n                        ",
-    "id": "urn:uuid:cc67b038-8d0b-45c2-9797-ff2d4a1bc069",
-    "category": "Sport akademicki",
-    "category_slug": "sport-akademicki",
-    "image": "https://ocdn.eu/sport-images-transforms/1/A0pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMmYwZDE0ZjZkY2QwOThkNDJkNTExMmFkZjZiZWRmNi5qcGeTlQMAAM0H0M0EZZMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
-  },
   "urn:uuid:89c73512-e943-4aeb-9378-e3aaa32a619d": {
     "title": "Atlas Arena wylecia\u0142a w kosmos. Dopiero potem pola\u0142y si\u0119 \u0142zy",
     "link": "https://przegladsportowy.onet.pl/mma/ksw/artur-szpilka-jako-wiezien-takiego-go-nie-znacie-w-ksiazce-o-tym-ani-slowa/7z04yr8",
@@ -6728,5 +6718,25 @@
     "category": "Kolarstwo",
     "category_slug": "kolarstwo",
     "image": "https://ocdn.eu/sport-images-transforms/1/dWck9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83Y2VlNTYzYjMxZWI3YzJiNTUwNmI0MmE3Nzg2MDAwYy5qcGeTlQMAAM0Hbs0ELpMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
+  },
+  "urn:uuid:3fdc1179-55e4-4bea-8746-2bf8193f004f": {
+    "title": "Wszyscy Polacy go uwielbiali. By\u0142 kr\u00f3lem \u017cycia. Po latach syn wyjawi\u0142 o nim ca\u0142\u0105 prawd\u0119",
+    "link": "https://przegladsportowy.onet.pl/boks/wszyscy-polacy-go-uwielbiali-byl-krolem-zycia-po-latach-syn-wyjawil-o-nim-cala-prawde/n7ee6j9",
+    "published": "2025-12-26T07:35:00",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/CJWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MzEyMzJiZDVkZGIzMGMyZTM3MmM3MGM3NTg1NDE0NS5qcGeTlQMAzQHazQfQzQRlkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB\" align=\"right\" /&gt;\u2014 Ojciec by\u0142 bardzo lubiany, ch\u0119tnie opowiada\u0142 r\u00f3\u017cne historie, by\u0142 dusz\u0105 towarzystwa. St\u0105d wzi\u0105\u0142 si\u0119 problem w trakcie jego choroby i po jego \u015bmierci. By\u0142em pos\u0105dzany o to, \u017ce \u017ale oceniam w\u0142asnego ojca. \u017be jak mog\u0119 by\u0107 wobec niego tak niesprawiedliwy, skoro to by\u0142 tak wspania\u0142y cz\u0142owiek \u2014 m\u00f3wi nam Waldemar Kulej, syn wybitnego pi\u0119\u015bciarza Jerzego. ]]&gt;\n                        ",
+    "id": "urn:uuid:3fdc1179-55e4-4bea-8746-2bf8193f004f",
+    "category": "Boks",
+    "category_slug": "boks",
+    "image": "https://ocdn.eu/sport-images-transforms/1/CJWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MzEyMzJiZDVkZGIzMGMyZTM3MmM3MGM3NTg1NDE0NS5qcGeTlQMAzQHazQfQzQRlkwXNBQDNAtCTCaZkNDFkOGMG3gACoTABoTEB"
+  },
+  "urn:uuid:4469ac13-24a5-4bfc-a830-b7c6a2952b47": {
+    "title": "Plaga kontuzji tu\u017c przed IO! To nie tak mia\u0142o wygl\u0105da\u0107",
+    "link": "https://przegladsportowy.onet.pl/igrzyska-olimpijskie/plaga-kontuzji-tuz-przed-io-to-nie-tak-mialo-wygladac/0092w5m",
+    "published": "2025-12-26T07:22:37",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/ihUk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85M2NmMzU5YjM4ZjFhMTZjZjliODYxYTIzZmVmMzYwYi5qcGeTlQMAVc0Kqs0F_5MFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Na p\u00f3\u0142tora miesi\u0105ca przed rozpocz\u0119ciem igrzysk Mediolan-Cortina d\u2019Ampezzo wiadomo ju\u017c, \u017ce wielu czo\u0142owych przedstawicieli narciarstwa alpejskiego z powodu kontuzji nie b\u0119dzie mog\u0142o walczy\u0107 o olimpijskie medale. To uzmys\u0142awia, jak bardzo urazowa jest to dyscyplina. ]]&gt;\n                        ",
+    "id": "urn:uuid:4469ac13-24a5-4bfc-a830-b7c6a2952b47",
+    "category": "Igrzyska olimpijskie",
+    "category_slug": "igrzyska-olimpijskie",
+    "image": "https://ocdn.eu/sport-images-transforms/1/ihUk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85M2NmMzU5YjM4ZjFhMTZjZjliODYxYTIzZmVmMzYwYi5qcGeTlQMAVc0Kqs0F_5MFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
   }
 }
