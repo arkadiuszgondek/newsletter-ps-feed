@@ -1,14 +1,4 @@
 {
-  "urn:uuid:cf0561f1-3806-4789-9194-d9787702831b": {
-    "title": "Iga \u015awi\u0105tek - Xinyu Wang [RELACJA NA \u017bYWO]",
-    "link": "https://przegladsportowy.onet.pl/tenis/iga-swiatek-xinyu-wang-na-zywo-za-ciosem/gjcx5mb",
-    "published": "2025-12-27T03:40:00",
-    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/vxtk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kYzY4MzQ4ODc2ZTM5YmIxYmE5ZDc3OWEyODEwOGE0Mi5qcGeTlQPNBJ3NAZPNB5rNBEaTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE\" align=\"right\" /&gt;Iga \u015awi\u0105tek wr\u00f3ci\u0142a do rywalizacji! Przebywa obecnie w Shenzen, gdzie bierze udzia\u0142 w turnieju pokazowym World Tennis Continental Cup, w kt\u00f3rym Dru\u017cyna Europy mierzy si\u0119 z Dru\u017cyn\u0105 \u015awiata. Polka jest ju\u017c po pierwszym hitowym starciu. W sobotni poranek b\u0119dzie jednak wielk\u0105 faworytk\u0105. ]]&gt;\n                        ",
-    "id": "urn:uuid:cf0561f1-3806-4789-9194-d9787702831b",
-    "category": "Tenis",
-    "category_slug": "tenis",
-    "image": "https://ocdn.eu/sport-images-transforms/1/vxtk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kYzY4MzQ4ODc2ZTM5YmIxYmE5ZDc3OWEyODEwOGE0Mi5qcGeTlQPNBJ3NAZPNB5rNBEaTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
-  },
   "urn:uuid:2e8322e6-8cb4-4785-93ea-4cb7530e06b3": {
     "title": "Przykry widok w 120-tysi\u0119cznym mie\u015bcie. Wydali 230 mln z\u0142, a tu taka klapa",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/1-liga/przykry-widok-w-120-tysiecznym-miescie-wydali-230-mln-zl-a-tu-taka-klapa/3ze46tc",
@@ -7388,5 +7378,15 @@
     "category": "Inne sporty",
     "category_slug": "inne-sporty",
     "image": "https://ocdn.eu/sport-images-transforms/1/yD-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jM2M4ZTYwZDllOGE0OGZiYTk1YjNiM2I2MjVjOWJkOS5qcGeTlQMCzIzNFXjNDBeTBc0FAM0C0JMJpmQ0MWQ4YwbeAAKhMAGhMQE"
+  },
+  "urn:uuid:024199ae-41ca-41b2-9e23-ab7e9f53c00b": {
+    "title": "Polscy mistrzowie chc\u0105 podbi\u0107 Kings League",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/polscy-mistrzowie-chca-podbic-kings-league/ssczh73",
+    "published": "2026-01-02T22:51:00",
+    "summary": "\n                            &lt;![CDATA[ &lt;img hspace=\"5\" src=\"https://ocdn.eu/sport-images-transforms/1/wJ1k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85NmFmMDg0YzdjZjM1Njk1YTJmODU5ZDQ1OTY5YWEzOC5qcGeTlQMAO80HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ\" align=\"right\" /&gt;Efektowne dryblingi, szybkie tempo, mn\u00f3stwo bramek, parady bramkarzy i dramaturgia. Brzmi jak przepis na idealny pi\u0142karski mecz? Owszem. Ale w tradycyjnym futbolu czasem tego brak. Za to socca daje nam to wszystko i to z nawi\u0105zk\u0105. ]]&gt;\n                        ",
+    "id": "urn:uuid:024199ae-41ca-41b2-9e23-ab7e9f53c00b",
+    "category": "Pi\u0142ka no\u017cna",
+    "category_slug": "pilka-nozna",
+    "image": "https://ocdn.eu/sport-images-transforms/1/wJ1k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85NmFmMDg0YzdjZjM1Njk1YTJmODU5ZDQ1OTY5YWEzOC5qcGeTlQMAO80HgM0EOJMFzQUAzQLQkwmmZDQxZDhjBt4AAqEwAaExAQ"
   }
 }
