@@ -4,7 +4,6 @@ from datetime import datetime, timedelta, timezone
 import re
 import requests
 from feedgen.feed import FeedGenerator
-import hashlib
 import os
 from html import unescape, escape
 from bs4 import BeautifulSoup
@@ -56,9 +55,9 @@ FEED_URLS = [
     "https://przegladsportowy.onet.pl/sporty-lotnicze.feed",
     "https://przegladsportowy.onet.pl/szachy.feed",
     "https://przegladsportowy.onet.pl/plebiscyt-przegladu-sportowego.feed",
-    "https://przegladsportowy.onet.pl/kajakarstwo.feed"
+    "https://przegladsportowy.onet.pl/kajakarstwo.feed",
 ]
-# Mapowanie slugów z URL na ładne nazwy z polskimi znakami
+
 CATEGORY_MAP = {
     "pilka-nozna": "Piłka nożna",
     "tenis": "Tenis",
@@ -106,165 +105,208 @@ CATEGORY_MAP = {
     "sporty-lotnicze": "Sporty lotnicze",
     "szachy": "Szachy",
     "plebiscyt-przegladu-sportowego": "Plebiscyt Przeglądu Sportowego",
-    "kajakarstwo": "Kajakarstwo"
+    "kajakarstwo": "Kajakarstwo",
 }
 
+
 def pretty_category(slug: str) -> str:
-    # Zwróć ładną nazwę; fallback: zamień '-' na spacje i tytułuj
     if slug in CATEGORY_MAP:
         return CATEGORY_MAP[slug]
-    # dla ścieżek z '/' sformatuj czytelnie
-    return slug.replace('-', ' ').replace('/', ' / ').title()
+    return slug.replace("-", " ").replace("/", " / ").title()
 
-CACHE_FILE = 'cache.json'
-OUTPUT_FILE = 'docs/rss.xml'
+
+CACHE_FILE = "cache.json"
+OUTPUT_FILE = "docs/rss.xml"
 RETENTION_DAYS = 7
 
-def extract_text(html):
-    soup = BeautifulSoup(html, 'html.parser')
-    for img in soup.find_all('img'):
+
+def extract_text(html: str) -> str:
+    soup = BeautifulSoup(html or "", "html.parser")
+    for img in soup.find_all("img"):
         img.decompose()
     return unescape(soup.get_text(strip=True))
 
-def get_category_from_url(url):
-    match = re.search(r"onet\.pl/(.*?).feed", url)
+
+def get_category_from_url(url: str) -> str:
+    match = re.search(r"onet\.pl/(.*?)\.feed", url)
     return match.group(1) if match else "inne"
 
-def load_cache():
+
+def load_cache() -> dict:
     if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, 'r') as f:
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
     return {}
 
-def save_cache(cache):
-    with open(CACHE_FILE, 'w') as f:
-        json.dump(cache, f, indent=2)
 
-def update_cache():
+def save_cache(cache: dict) -> None:
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, indent=2, ensure_ascii=False)
+
+
+def update_cache() -> dict:
     print("🔧 Wchodzę do update_cache()")
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=RETENTION_DAYS)
     cache = load_cache()
 
-    # MIGRACJA: podmień kategorie w już zapisanych wpisach (slug -> ładna nazwa)
+    # MIGRACJA: slug -> ładna nazwa + zachowanie slug
     changed = False
-    for k, v in list(cache.items()):
+    for _, v in list(cache.items()):
         cat_slug = v.get("category_slug") or v.get("category")
         if cat_slug:
             nice = pretty_category(cat_slug)
             if v.get("category") != nice:
-                v["category"] = nice            # ładna nazwa z ogonkami
-                v["category_slug"] = cat_slug   # oryginalny slug
+                v["category"] = nice
+                v["category_slug"] = cat_slug
                 changed = True
     if changed:
         save_cache(cache)
+
+    headers = {
+        "User-Agent": "newsletter-ps-feed/1.0 (+https://github.com/arkadiuszgondek/newsletter-ps-feed)"
+    }
 
     print("➡️ Początek aktualizacji cache")
 
     for url in FEED_URLS:
         print(f"🔗 Przetwarzam: {url}")
-        response = requests.get(url)
-        print("status:", response.status_code,
-      "content-type:", response.headers.get("Content-Type"),
-      "bytes:", len(response.content))
 
-feed = feedparser.parse(response.content)
-soup = BeautifulSoup(response.content, 'xml')
-
-print("len(feed.entries):", len(feed.entries),
-      "len(<entry>):", len(soup.find_all('entry')),
-      "len(<item>):", len(soup.find_all('item')))
+        try:
+            response = requests.get(url, headers=headers, timeout=30)
+            print(
+                "status:", response.status_code,
+                "content-type:", response.headers.get("Content-Type"),
+                "bytes:", len(response.content)
+            )
+            response.raise_for_status()
+        except Exception as e:
+            print(f"❌ Błąd pobierania {url}: {e}")
+            continue
 
         feed = feedparser.parse(response.content)
-        soup = BeautifulSoup(response.content, 'xml')
-        entries_raw = soup.find_all('entry')
-        category = get_category_from_url(url)  # slug z URL-a
+        soup = BeautifulSoup(response.content, "xml")
 
-        for raw_entry, parsed_entry in zip(entries_raw, feed.entries):
-            published = datetime(*parsed_entry.published_parsed[:6])  # bez TZ – wyrównamy przy zapisie/porównaniu
-            entry_id = parsed_entry.id if "id" in parsed_entry else parsed_entry.link
+        # Atom: <entry>, RSS 2.0: <item>
+        entries_raw = soup.find_all("entry")
+        raw_mode = "entry"
+        if not entries_raw:
+            entries_raw = soup.find_all("item")
+            raw_mode = "item"
+
+        if entries_raw:
+            iterable = zip(entries_raw, feed.entries)
+        else:
+            iterable = [(None, e) for e in feed.entries]
+            raw_mode = "none"
+
+        print(
+            "len(feed.entries):", len(feed.entries),
+            "raw_mode:", raw_mode,
+            "raw_count:", len(entries_raw),
+        )
+
+        category = get_category_from_url(url)
+
+        for raw_entry, parsed_entry in iterable:
+            # published / updated
+            dt_struct = getattr(parsed_entry, "published_parsed", None) or getattr(parsed_entry, "updated_parsed", None)
+            if not dt_struct:
+                continue
+            published = datetime(*dt_struct[:6], tzinfo=timezone.utc)
+
+            entry_id = getattr(parsed_entry, "id", None) or getattr(parsed_entry, "guid", None) or parsed_entry.link
 
             # dedup po linku
-            if any(parsed_entry.link == v["link"] for v in cache.values()):
-                print(f"⏭️ Pomijam duplikat: {parsed_entry.link}")
+            if any(parsed_entry.link == v.get("link") for v in cache.values()):
                 continue
 
+            # jeśli nowy lub nowszy niż poprzednio zapisany
             if entry_id not in cache or published > datetime.fromisoformat(cache[entry_id]["published"]):
-                summary_tag = raw_entry.find('summary')
-                summary_raw = summary_tag.decode_contents() if summary_tag else ""
+                if raw_entry:
+                    if raw_mode == "entry":
+                        summary_tag = raw_entry.find("summary")
+                        summary_raw = summary_tag.decode_contents() if summary_tag else ""
+                    elif raw_mode == "item":
+                        desc_tag = raw_entry.find("description")
+                        summary_raw = desc_tag.decode_contents() if desc_tag else ""
+                    else:
+                        summary_raw = ""
+                else:
+                    summary_raw = getattr(parsed_entry, "summary", "") or getattr(parsed_entry, "description", "") or ""
 
-                print(f"📦 Summary dla {parsed_entry.link}:\n{summary_raw}\n---")
-
-                cat_slug = category
                 cache[entry_id] = {
-                    "title": parsed_entry.title,
+                    "title": getattr(parsed_entry, "title", "").strip(),
                     "link": parsed_entry.link,
                     "published": published.isoformat(),
-                    "summary": summary_raw,
+                    "summary": summary_raw or "",
                     "id": entry_id,
-                    "category": pretty_category(cat_slug),   # ładna nazwa z ogonkami
-                    "category_slug": cat_slug,               # zachowujemy slug
-                    "image": parsed_entry.enclosures[0].href if parsed_entry.enclosures else ""
+                    "category": pretty_category(category),
+                    "category_slug": category,
+                    "image": parsed_entry.enclosures[0].href if getattr(parsed_entry, "enclosures", None) else "",
                 }
 
-    # filtr 7 dni
+    # filtr ostatnich 7 dni
     filtered = {
         k: v for k, v in cache.items()
         if datetime.fromisoformat(v["published"]).replace(tzinfo=timezone.utc) >= cutoff
     }
 
     print(f"✅ Zapisuję {len(filtered)} wpisów do cache.json")
-    print("💾 Zapisuję cache do pliku:", CACHE_FILE)
     save_cache(filtered)
     return filtered
 
-def generate_feed(entries):
+
+def generate_feed(entries: dict) -> None:
     fg = FeedGenerator()
-    fg.id('fd736935-55ce-469a-bedb-fb4111f9e7b1')
-    fg.title('Newsletter Przegląd Sportowy')
-    fg.description('Zbiorczy RSS z Przeglądu Sportowego')
-    fg.link(href='https://przegladsportowy.onet.pl/', rel='alternate')
-    fg.logo('https://ocdn.eu/przegladsportowy/static/logo-ps-feed.png')
-    fg.language('pl')
-    fg.author(name='PrzegladSportowy.onet.pl')
+    fg.id("fd736935-55ce-469a-bedb-fb4111f9e7b1")
+    fg.title("Newsletter Przegląd Sportowy")
+    fg.description("Zbiorczy RSS z Przeglądu Sportowego")
+    fg.link(href="https://przegladsportowy.onet.pl/", rel="alternate")
+    fg.logo("https://ocdn.eu/przegladsportowy/static/logo-ps-feed.png")
+    fg.language("pl")
+    fg.author(name="PrzegladSportowy.onet.pl")
 
     used_ids = set()
 
-    for item in sorted(entries.values(), key=lambda x: x['published'], reverse=True):
+    for item in sorted(entries.values(), key=lambda x: x["published"], reverse=True):
         if item["id"] in used_ids:
-            continue  # pomiń duplikat GUID
+            continue
         used_ids.add(item["id"])
 
         fe = fg.add_entry()
         fe.id(item["id"])
         fe.title(item["title"])
-        fe.link(href=item["link"], rel='alternate', type='text/html')
+        fe.link(href=item["link"], rel="alternate", type="text/html")
+
         pub_dt = datetime.fromisoformat(item["published"]).replace(tzinfo=timezone.utc)
         fe.published(pub_dt)
 
-        # ✅ Właściwa linia — dekodujemy HTML przed wstawieniem
-        fe.description(escape(item["summary"] or ""))
+        # Uwaga: feedgen nie lubi "surowego" HTML bez escapingu — więc trzymamy XML-safe
+        fe.description(escape(item.get("summary") or ""))
 
-        if item["image"]:
+        if item.get("image"):
             fe.enclosure(url=item["image"], type="image/jpeg", length="0")
-        fe.category(term=item["category"])
 
-    rss_content = fg.rss_str(pretty=True).decode('utf-8')
+        fe.category(term=item.get("category") or "Inne")
 
-    # Usuń istniejące <?xml ... ?> jeśli jest
-    rss_content = re.sub(r'^<\?xml[^>]+\?>', '', rss_content).lstrip()
+    rss_content = fg.rss_str(pretty=True).decode("utf-8")
 
-    # Nasza poprawna deklaracja XML z podwójnymi cudzysłowami
+    # usuń istniejące <?xml ... ?> jeśli jest
+    rss_content = re.sub(r'^<\?xml[^>]+\?>', "", rss_content).lstrip()
+
     xml_declaration_line = '<?xml version="1.0" encoding="UTF-8"?>\n'
 
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(xml_declaration_line)
         f.write(rss_content)
 
-def main():
+
+def main() -> None:
     entries = update_cache()
-    os.makedirs('docs', exist_ok=True)
     generate_feed(entries)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
