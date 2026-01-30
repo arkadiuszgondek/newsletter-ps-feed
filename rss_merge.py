@@ -164,6 +164,17 @@ def update_cache():
     for url in FEED_URLS:
         print(f"🔗 Przetwarzam: {url}")
         response = requests.get(url)
+        print("status:", response.status_code,
+      "content-type:", response.headers.get("Content-Type"),
+      "bytes:", len(response.content))
+
+feed = feedparser.parse(response.content)
+soup = BeautifulSoup(response.content, 'xml')
+
+print("len(feed.entries):", len(feed.entries),
+      "len(<entry>):", len(soup.find_all('entry')),
+      "len(<item>):", len(soup.find_all('item')))
+
         feed = feedparser.parse(response.content)
         soup = BeautifulSoup(response.content, 'xml')
         entries_raw = soup.find_all('entry')
