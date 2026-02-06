@@ -229,16 +229,6 @@
     "category_slug": "tenis",
     "image": "https://cdn.przegladsportowy.onet.pl/1/MKck9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mZTFkMTViYTNlMGJiMmIwNDZkNjk4M2Q4YWQxMjVlMS5qcGeSlQMAes0PWc0IopMFzQlgzQZA3gACoTAHoTEE"
   },
-  "143e6fc0-3f31-43fe-a6b6-3d8242e2b1c9": {
-    "title": "Australian Open: Carlos Alcaraz - Alexander Zverev [RELACJA NA ŻYWO]",
-    "link": "https://przegladsportowy.onet.pl/tenis/australian-open/carlos-alcaraz-alexander-zverev-relacja-na-zywo-australian-open-wynik-live/c3bqbn5",
-    "published": "2026-01-30T03:30:00+00:00",
-    "summary": "Już dziś poznamy finalistów Australian Open! Czy Carlos Alcaraz w kolejnym spotkaniu poradzi sobie bez strat? Alexander Zverev chce przeciwstawić genialnemu Hiszpanowi i powalczyć o awans do meczu o tytuł w Melbourne. Tego nie można przegapić, śledź relację na żywo w Przeglądzie Sportowym Onet.",
-    "id": "143e6fc0-3f31-43fe-a6b6-3d8242e2b1c9",
-    "category": "Tenis",
-    "category_slug": "tenis",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/TcVk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yYmMyOTUwNGM5OGMzZTc2YTY4ODMzNzVmZWE3NDRjNS5qcGeSlQMAzJbNEF7NCTSTBc0JYM0GQN4AAqEwB6ExBA"
-  },
   "2b93d5d7-47d5-4cac-a3e3-b9897b09449b": {
     "title": "Ostatnie godziny promocji! Przegląd Sportowy Onet w wyjątkowej cenie",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/ostatnie-godziny-promocji-przeglad-sportowy-onet-w-wyjatkowej-cenie/sesh0vh",
@@ -8858,5 +8848,15 @@
     "category": "Igrzyska olimpijskie",
     "category_slug": "igrzyska-olimpijskie",
     "image": "https://cdn.przegladsportowy.onet.pl/1/qx9k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMjY3ZDNiMGQwOTViNzFmNDE4MmU5NjkwY2I1NmIzYS5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "c39537b0-6b87-405e-a950-7baeaccd973f": {
+    "title": "Tego nie zobaczysz w TV! Oto największy problem IO w Mediolanie",
+    "link": "https://przegladsportowy.onet.pl/igrzyska-olimpijskie/tego-nie-zobaczysz-w-tv-oto-najwiekszy-problem-io-w-mediolanie/hf8py5j",
+    "published": "2026-02-06T04:00:00+00:00",
+    "summary": "Setki banerów informujących o igrzyskach, tysiące metrów barier i jeden wielki plac budowy — tak wyglądał Mediolan jeszcze na kilka dni przed oficjalnym rozpoczęciem najważniejszej imprezy czterolecia. Trudno wręcz było oprzeć się wrażeniu, że igrzyska nie rozpoczynają się na początku lutego, a dopiero za kilka tygodni. O potencjalnie największym problemie całej imprezy dotąd jednak się nie mówi, a może doprowadzić do paraliżu całych północnych Włoch, gdzie ulokowane się areny igrzysk.",
+    "id": "c39537b0-6b87-405e-a950-7baeaccd973f",
+    "category": "Igrzyska olimpijskie",
+    "category_slug": "igrzyska-olimpijskie",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/cH0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMGZjNzJkOWUyZDU2ZWZmYjQ2NDExM2VhMjgyOTBmMS5wbmeSlQMAAM0GQM0DhJMFzQlgzQZA3gACoTAHoTEE"
   }
 }
