@@ -29,16 +29,6 @@
     "category_slug": "pilka-nozna",
     "image": "https://cdn.przegladsportowy.onet.pl/1/STek9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNzE3YWNkMzU1YWY1NGI5ZGQ2ODA0NjY0NjAzODY0Zi5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
   },
-  "c1f60837-aaa1-4e86-bb98-96e7a5721ea5": {
-    "title": "Nadzieja Kosowa podbija Ekstraklasę. To ma być tylko etap przejściowy",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/nowy-nabytek-wisly-plock-sprawdzil-sie-od-razu-ma-ogromny-potencjal/6hf7qt5",
-    "published": "2026-04-24T10:15:00+00:00",
-    "summary": "Kibice Wisły Płock mogą być wręcz zaskoczeni formą, jaką prezentuje ich nowy zawodnik. W Kosowie nikt się nie dziwi. — Jestem dziennikarzem od 11 lat, zazwyczaj nie lubię robić prognoz, ale w przypadku Gallapeniego robię wyjątek. Ma ogromny potencjał — mówi Lorik Jashanica, dziennikarz kosowskiej \"GazetaBlic Sport\".",
-    "id": "c1f60837-aaa1-4e86-bb98-96e7a5721ea5",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/uZvk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81OTkyZjFjOTBmNDlhYWFhMDNjNTdiNDFlNTE2MTI5YS5qcGeSlQPNBkTM_M0Iec0ExZMFzQlgzQZA3gACoTAHoTEE"
-  },
   "a6264c17-bb1f-4218-9e34-ba882332f9d3": {
     "title": "Klęska Huberta Hurkacza w tie-breaku. Był wściekły. Bolesny finisz w Madrycie",
     "link": "https://przegladsportowy.onet.pl/tenis/kleska-huberta-hurkacza-w-tie-breaku-byl-wsciekly-bolesny-koniec/sdms0tn",
@@ -8338,5 +8328,25 @@
     "category": "Inne sporty",
     "category_slug": "inne-sporty",
     "image": "https://cdn.przegladsportowy.onet.pl/1/lIAk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMGVjZWNlNDRmMGI3Njk1MGFhYmJmNDg3M2NjZmZmZi5wbmeSlQMASs0GC80DZ5MFzQlgzQZA3gACoTAHoTEE"
+  },
+  "95a6673c-1c5f-4f3e-896c-a5e0d57def0d": {
+    "title": "Prezes Śląska Wrocław oskarżony. Oto czego miał się dopuścić",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/1-liga/prezes-slaska-wroclaw-oskarzony-oto-czego-mial-sie-dopuscic/vr30ryx",
+    "published": "2026-05-01T10:07:06+00:00",
+    "summary": "Podczas meczu oldbojów pomiędzy Piastem Lutynią a PKS-em Łany doszło do kontrowersyjnej sytuacji. Michał, zawodnik Piasta, oskarżył Remigiusza Jezierskiego, prezesa Śląska Wrocław, o celowe uderzenie pięścią w nos. Ten ostatni przyznał, że doszło do kontaktu, ale określił go jako przypadkowy.",
+    "id": "95a6673c-1c5f-4f3e-896c-a5e0d57def0d",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/X2Wk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jMzdiYzEyZmQ1ODcyODkxYTg2NmI5ZTJjZTg4MzhjYy5qcGeSlQMAzKjNFObNC8GTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "c71223e6-952f-4a09-8972-c40b02553d02": {
+    "title": "Absolutny pogrom w NBA! Drużyna Sochana z awansem",
+    "link": "https://przegladsportowy.onet.pl/koszykowka/nba/absolutny-pogrom-w-nba-druzyna-sochana-z-awansem/ce7xbex",
+    "published": "2026-05-01T10:12:47+00:00",
+    "summary": "Koszykarze New York Knicks, z Jeremym Sochanem w składzie, rozgromili na wyjeździe Atlanta Hawks 140:89 i awansowali do drugiej rundy play-off ligi NBA, wygrywając serię 4–2. Reprezentant Polski grał niecałe siedem minut, zdobył cztery punkty.",
+    "id": "c71223e6-952f-4a09-8972-c40b02553d02",
+    "category": "Koszykówka",
+    "category_slug": "koszykowka",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/fBAk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83NjA2YTBlYzM2NTJmNTkwNjEzNWU2OTIzOWI0ODdhNS5qcGeSlQMAzJTNEpXNCnOTBc0JYM0GQN4AAqEwB6ExBA"
   }
 }
