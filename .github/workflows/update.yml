@@ -2,25 +2,18 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # Mon-Wed + Sat-Sun: co 2h od 06:00 do 24:00 CEST (04–22 UTC)
-    - cron: '0 4-22/2 * * 0-3,6'
+    # Codziennie 8:00-12:00 CEST (06:00-10:00 UTC) co 20 minut
+    - cron: '0,20,40 6-9 * * *'
+    - cron: '0 10 * * *'          # 12:00 CEST (ostatni z okna intensywnego)
 
-    # Czwartek: intensywne odświeżanie co 30 min w godz. 10:00–20:00 CEST (08–18 UTC)
-    - cron: '0,30 8-17 * * 4'   # 08:00–17:30 UTC (10:00–19:30 CEST)
-    - cron: '0 18 * * 4'        # 18:00 UTC (20:00 CEST)
-
-    # Czwartek poza tym oknem: co 2h od 06:00–10:00 i 20:00–24:00 CEST (04–08 i 18–22 UTC)
-    - cron: '0 4-7/2 * * 4'     # 04:00, 06:00 UTC (06:00, 08:00 CEST)
-    - cron: '0 20,22 * * 4'     # 20:00, 22:00 UTC (22:00, 24:00 CEST)
-
-    # Piątek: okno intensywne 05:00–11:00 CEST co 20 min (03:00–09:00 UTC)
-    - cron: '0,20,40 3-8 * * 5'   # 05:00–10:40 CEST
-    - cron: '0 9 * * 5'           # 11:00 CEST
-
-    # Piątek poza oknem 05–11: co 2h od 12:00 do 24:00 CEST (10–22 UTC)
-    - cron: '0 10-22/2 * * 5'
+    # Poza oknem: co godzinę przez całą dobę
+    - cron: '0 0-5,11-23 * * *'
 
   workflow_dispatch:
+
+concurrency:
+  group: rss-feed-update
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -46,4 +39,7 @@ jobs:
           git config user.email "github-actions@github.com"
           git add docs/rss.xml cache.json
           git commit -m "Automated update $(date -u +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git pull --rebase origin main
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
