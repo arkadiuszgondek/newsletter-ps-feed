@@ -7,7 +7,7 @@ on:
     - cron: '0 12 * * *'          # 14:00 CEST (ostatni z okna intensywnego)
 
     # Poza oknem: co godzinę przez całą dobę
-    - cron: '0 0-5,13-23 * * *'
+    - cron: '0 0-5,13-23 * * *' 
 
   workflow_dispatch:
 
