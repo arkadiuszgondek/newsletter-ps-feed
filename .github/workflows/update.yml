@@ -2,12 +2,12 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # Codziennie 8:00-12:00 CEST (06:00-10:00 UTC) co 20 minut
-    - cron: '0,20,40 6-9 * * *'
-    - cron: '0 10 * * *'          # 12:00 CEST (ostatni z okna intensywnego)
+    # Codziennie 8:00-14:00 CEST (06:00-12:00 UTC) co 20 minut
+    - cron: '0,20,40 6-11 * * *'
+    - cron: '0 12 * * *'          # 14:00 CEST (ostatni z okna intensywnego)
 
     # Poza oknem: co godzinę przez całą dobę
-    - cron: '0 0-5,11-23 * * *'
+    - cron: '0 0-5,13-23 * * *'
 
   workflow_dispatch:
 
