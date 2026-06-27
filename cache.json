@@ -1,14 +1,4 @@
 {
-  "cb08eabf-0bbb-4ae0-afc9-a6f8e71d9bb9": {
-    "title": "Wystarczyło 71 sekund. Tak padł najszybszy gol MŚ 2026",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/wystarczylo-71-sekund-tak-padl-najszybszy-gol-ms-2026/j1lrw5j",
-    "published": "2026-06-19T22:30:07+00:00",
-    "summary": "Po prostu nie dało się lepiej rozpocząć hitu mistrzostw świata 2026! Reprezentacja Maroka potrzebowała zaledwie 71 sekund, by strzelić gola Szkotom. To trzeba zobaczyć!",
-    "id": "cb08eabf-0bbb-4ae0-afc9-a6f8e71d9bb9",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/pclk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xYmNjZjE3Mjg0NmNlNTIxMDQ2NmI2ODUzYzA2OTM5Yy5qcGeSlQPMjwDNBZfNAyWTBc0JYM0GQN4AAqEwB6ExBA"
-  },
   "313ca457-8dfa-4aaf-8955-adef05c7798c": {
     "title": "Ekwador chce udowodnić, że eliminacje to nie przypadek",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/ekwador-chce-udowodnic-ze-eliminacje-ms-to-nie-przypadek/9bjxzv1",
@@ -78,26 +68,6 @@
     "category": "Piłka nożna",
     "category_slug": "pilka-nozna",
     "image": "https://cdn.przegladsportowy.onet.pl/1/1Cuk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lNDdmNjcyOWVlZDgyNGE0ZmNmNjJlMWQ1ZTFiNjljMS5qcGeSlQMBRc0M980HTZMFzQlgzQZA3gACoTAHoTEE"
-  },
-  "80bac2be-3e69-43c8-a0b3-11df604fc39a": {
-    "title": "MŚ: Brazylia - Haiti [RELACJA NA ŻYWO]",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/ms-2026-dzisiaj-na-zywo-brazylia-haiti-relacja-i-wynik-live/qr658zb",
-    "published": "2026-06-20T00:00:00+00:00",
-    "summary": "MŚ: Brazylia - Haiti to mecz 2. kolejki fazy grupowej mundialu w Meksyku, Stanach Zjednoczonych i Kanadzie. Canarinhos turniej rozpoczęli od remisu, zatem teraz nie ma już miejsca na wpadkę, tym bardziej, że rywal to \"na papierze\" jedna z najsłabszych reprezentacji całych mistrzostw.",
-    "id": "80bac2be-3e69-43c8-a0b3-11df604fc39a",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/pVyk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85YjQ3NmY3OGUyMjdjN2I5MzRmYWVmZmNhOTU0YTY1Yy5qcGeSlQMAzQHfzRfyzQ17kwXNCWDNBkDeAAKhMAehMQQ"
-  },
-  "f01e921c-5794-4c0f-9a5e-bf5470a3f23f": {
-    "title": "Marzenia legły w gruzach po 71 sekundach! Ekipa z Europy pod ścianą na MŚ 2026",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/marzenia-legly-w-gruzach-po-71-sekundach-ekipa-z-europy-pod-sciana-na-ms-2026/vpgrj8x",
-    "published": "2026-06-19T23:59:37+00:00",
-    "summary": "Szkoci mogli marzyć o dobrym wyniku w meczu z Marokiem tylko przez 71 sekund! Brahim Diaz i Ismael Saibari znów zaskoczyli rywali, a ci nawet mimo zwycięstwa w pierwszym meczu są w już naprawdę trudnej sytuacji. Przed nimi walka o życie. I to z gigantem!",
-    "id": "f01e921c-5794-4c0f-9a5e-bf5470a3f23f",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/gvgk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83OTlhOTUyNGQ5NDdjYzFjZGJiNWY4NjEzOTVmZGZlYi5qcGeSlQMAzKXNEGjNCTuTBc0JYM0GQN4AAqEwB6ExBA"
   },
   "89d26db4-85cc-443b-b86c-5e32cc06d762": {
     "title": "Ołeksandr Usyk zdecydował w sprawie swojej przyszłości",
@@ -9618,5 +9588,25 @@
     "category": "Żużel",
     "category_slug": "zuzel",
     "image": "https://cdn.przegladsportowy.onet.pl/1/hy5k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMzExZjdjODdhYWUxNWFlNmU3YTM4ZDY4ZjEyNTc3MC5qcGeSlQMBzQE2zQu1zQaWkwXNCWDNBkDeAAKhMAehMQQ"
+  },
+  "62bc51b0-cbb7-4754-8917-7d98df45e7a5": {
+    "title": "MŚ: Republika Zielonego Przylądka - Arabia Saudyjska oraz Urugwaj - Hiszpania [RELACJA NA ŻYWO]",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/ms-2026-dzisiaj-na-zywo-republika-zielonego-przyladka-arabia-saudyjska-oraz-urugwaj/pvtxgf7",
+    "published": "2026-06-26T23:25:00+00:00",
+    "summary": "Czas na jeden z hitów fazy grupowej! Reprezentanci Aż dwie drużyny mają szansę wyprzedzić Hiszpanów. Teoretycznie wciąż możliwe jest, że mistrzowie Europy nie zajmą żadnego z dwóch pierwszych miejsc w grupie. Tu będzie bardzo ciekawie, tego nie można przegapić.",
+    "id": "62bc51b0-cbb7-4754-8917-7d98df45e7a5",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/4UPk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82NmJiOTYxNDQ4YWRmOTY2ZTE1ODRhZTAyZjQ3ZjhhMS5qcGeSlQPNAap6zQVazQMCkwXNCWDNBkDeAAKhMAehMQQ"
+  },
+  "e6cb3f26-90df-46c9-82b4-54412ce99ea0": {
+    "title": "Alarm. Gwiazdor wykluczony z meczu MŚ. Podali powód",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/alarm-gwiazdor-wykluczony-z-meczu-ms-podali-powod/975znb3",
+    "published": "2026-06-26T23:22:58+00:00",
+    "summary": "Nagły problem reprezentacji Anglii przez decydującym meczem fazy grupowej MŚ. Jak informują angielskie media, drużyna będzie musiała poradzić sobie bez kluczowej postaci ze względu na kontuzję. Przerwa najprawdopodobniej będzie dłuższa.",
+    "id": "e6cb3f26-90df-46c9-82b4-54412ce99ea0",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/5Bpk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kMzQ3YWI2YWM0NWU5NDE0Njc5MWMzODZlOGZkZmY0Mi5qcGeSlQPNAdRgzQwrzQbYkwXNCWDNBkDeAAKhMAehMQQ"
   }
 }
