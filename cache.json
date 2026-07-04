@@ -1,14 +1,4 @@
 {
-  "952a540f-8210-4764-bff0-7b577148567d": {
-    "title": "Marcin Możdżonek pisze o ślepym systemie. Nie zgadzam się",
-    "link": "https://przegladsportowy.onet.pl/felietony/marcin-mozdzonek-pisze-o-slepym-systemie-nie-zgadzam-sie/jb3krjt",
-    "published": "2026-06-27T07:00:00+00:00",
-    "summary": "Po powrocie z krótkiego wyjazdu (jego tenisowe odpryski już za chwilę) z zainteresowaniem wczytałem się w dyskusję dwóch osób, które cenię i szanuję. W social mediach swym punktem widzenia na stypendium dla Mai Chwalińskiej podzielili się były siatkarski mistrz świata Marcin Możdżonek oraz wieloletni trener Igi Świątek Piotr Sierzputowski.",
-    "id": "952a540f-8210-4764-bff0-7b577148567d",
-    "category": "Felietony",
-    "category_slug": "felietony",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/HSsk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xNTViM2I5OTgxMjNmYjdkYWM5ZWNkOWNjMDBhN2Q1ZS5wbmeSlQMPAM0HYc0EJ5MFzQlgzQZA3gACoTAHoTEE"
-  },
   "7d87a2da-646d-4f63-97b3-8d3873d4eccb": {
     "title": "Oni mają już pewny awans z trzecich miejsc na MŚ 2026. Sprawdź tabelę",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/oni-maja-juz-pewny-awans-z-trzecich-miejsc-na-ms-2026-sprawdz-tabele/lezfpby",
@@ -48,16 +38,6 @@
     "category": "Piłka nożna",
     "category_slug": "pilka-nozna",
     "image": "https://cdn.przegladsportowy.onet.pl/1/K__k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OTVkZGQyMThhNmI3ZDBiOTgwNGMyNTgwYzBlNWFkYS5qcGeSlQPMsMzEzQ4gzQfykwXNCWDNBkDeAAKhMAehMQQ"
-  },
-  "4faf12dc-051a-4610-821d-d0aee8758d23": {
-    "title": "Ukraiński klub wynosi się z Polski. Maj już plan, co teraz zrobi",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ukraincy-wynosza-sie-z-polski-na-cel-wzieli-teraz-dwa-kraje-europy/003tfhx",
-    "published": "2026-06-27T07:00:00+00:00",
-    "summary": "To może być koniec kilkuletniej historii ukraińskich klubów w Polsce. Szachtar Donieck, który od wybuchu wojny rozgrywał swoje domowe mecze w europejskich pucharach na polskich stadionach, szykuje się do przeprowadzki.",
-    "id": "4faf12dc-051a-4610-821d-d0aee8758d23",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/uOAk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yZmQ3Nzc1NjViZmY1ZmUxMmIyMmRlOWJkMzA4YzExMC5qcGeSlQPMscz-zRJxzQpfkwXNCWDNBkDeAAKhMAehMQQ"
   },
   "c2d21d12-e34f-4cba-83e6-b21101096129": {
     "title": "Dostał szansę od organizatorów SEC. Teraz chce udowodnić, że na nią zasłużył",
@@ -10618,5 +10598,15 @@
     "category": "Łyżwiarstwo",
     "category_slug": "sporty-zimowe/lyzwiarstwo",
     "image": "https://cdn.przegladsportowy.onet.pl/1/5l6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kZWE4MjExM2U1MTY1YWFlNTQyNDYwMTMzMWM2ZWNkNS5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "28ce1b8a-18b0-44af-8891-1222d5f9a6e4": {
+    "title": "Tak zachował się Leo Messi po ostatnim gwizdku na MŚ 2026. Vozinha ujawnił",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/tak-zachowal-sie-messi-po-ostatnim-gwizdku-na-ms-2026-vozinha-ujawnil/4h2ync7",
+    "published": "2026-07-04T06:50:08+00:00",
+    "summary": "Vozinha był jednym z bohaterów Republiki Zielonego Przylądka podczas MŚ. Golkiper rozegrał przeciwko Argentynie (2:3) rewelacyjne spotkanie. Po ostatnim gwizdku kamery uchwyciły jego rozmowę z Leo Messim. Oto co usłyszał.",
+    "id": "28ce1b8a-18b0-44af-8891-1222d5f9a6e4",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/31kk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85YTFhNDYyNTVhYWYzNTY4OGE3MmZkMzczNzhhMGNiMi5qcGeSlQPNAxxozQTtzQLEkwXNCWDNBkDeAAKhMAehMQQ"
   }
 }
