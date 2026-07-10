@@ -1,14 +1,4 @@
 {
-  "83f887d1-2adc-44e7-a656-bb0d0c450e3d": {
-    "title": "Portugalia - Chorwacja [RELACJA NA ŻYWO]",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/ms-2026-dzisiaj-na-zywo-portugalia-chorwacja-relacja-live-i-wynik/3f4b7h6",
-    "published": "2026-07-02T22:50:00+00:00",
-    "summary": "Czas na hit 1/16 finału mundialu Portugalia — Chorwacja. Przed starciem uznanych europejskich drużyn sporo mówiło się o tym, czy w pierwszym składzie zagra Cristiano Ronaldo. Wyjaśniło się to na nieco ponad godzinę przed meczem.",
-    "id": "83f887d1-2adc-44e7-a656-bb0d0c450e3d",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/2PMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMGVmOWE0ODdkYjUzYTJmNDMyODkxMjA5ZWE5ZjBjMS5qcGeSlQMAPs0H0M0EZZMFzQlgzQZA3gACoTAHoTEE"
-  },
   "0adcaf86-0114-45e8-a877-dfcbe84a78de": {
     "title": "Mateusz Borek nie wytrzymał po tym, co zrobiła Legia. \"To jest chore\"",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/transfery/mateusz-borek-nie-wytrzymal-po-tym-co-zrobila-legia-to-jest-chore/nn9g7bg",
@@ -9518,5 +9508,25 @@
     "category": "Żużel",
     "category_slug": "zuzel",
     "image": "https://cdn.przegladsportowy.onet.pl/1/XrDk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMDdlNzgxZGIzYzE4NTA2YTI5NGRhYWQ2NTk3NmE3MC5qcGeSlQMAb80N1c0Hx5MFzQlgzQZA3gACoTAHoTEE"
+  },
+  "e877bdf2-a20a-41bc-9846-9fcbd623ddf4": {
+    "title": "To dlatego Kylian Mbappe zszedł z murawy. Wszystko ujawnili",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/to-dlatego-kylian-mbappe-zszedl-z-murawy-wszystko-ujawnili/tkrjh73",
+    "published": "2026-07-09T23:01:58+00:00",
+    "summary": "Francja pokonała Maroko 2:0 i po raz trzeci z rzędu awansowała do półfinału mistrzostw świata. Po końcowym gwizdku najwięcej pytań dotyczyło jednak nie wyniku, a stanu zdrowia Kyliana Mbappe, który opuścił boisko przed końcem spotkania.",
+    "id": "e877bdf2-a20a-41bc-9846-9fcbd623ddf4",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/yb1k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kY2ZhOTVmZmUwZmVlZjllNWI0ZDFmZTkxNDk2ZTQyNi5qcGeSlQPNCx7NA1vNEZnNCeiTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "eed5391e-2993-4888-96e7-96f451395a99": {
+    "title": "Marokańczycy grzmią po porażce z Francją. \"VAR powinien anulować tego gola\"",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mistrzostwa-swiata-2026/marokanczycy-grzmia-po-porazce-z-francja-var-powinien-anulowac-tego-gola/leqwgzn",
+    "published": "2026-07-09T22:43:22+00:00",
+    "summary": "Francja pokonała Maroko 2:0 i awansowała do półfinału mistrzostw świata 2026, ale po końcowym gwizdku więcej niż o samym wyniku mówiło się o kontrowersjach związanych z pierwszym golem Kyliana Mbappe. — Była ręka przed pozycją Mbappe przy pierwszej bramce — irytował się trener Mohamed Ouahbi.",
+    "id": "eed5391e-2993-4888-96e7-96f451395a99",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/6Uck9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85NTczZDc3ZGQ3MmQyOTNlMzg1Nzg1MDUwY2E5MTAzYi5qcGeSlQMAzLvNF3DNDS-TBc0JYM0GQN4AAqEwB6ExBA"
   }
 }
