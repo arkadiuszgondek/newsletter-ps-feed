@@ -109,16 +109,6 @@
     "category_slug": "zuzel",
     "image": "https://cdn.przegladsportowy.onet.pl/1/r4gk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lNTkwNGNmMWNjMDNiODNlMzhkM2YyZWRhODUwYjEwNS5wbmeSlQMAzMfNCADNBICTBc0JYM0GQN4AAqEwB6ExBA"
   },
-  "fb406c3c-a1af-4d34-9f72-6060ebc0866a": {
-    "title": "Grand Prix Szwecji w Malilli [NA ŻYWO]",
-    "link": "https://przegladsportowy.onet.pl/zuzel/grand-prix/relacja-na-zywo-bieg-po-biegu-grand-prix-szwecji-w-malilli/21ym152",
-    "published": "2026-07-11T03:00:08+00:00",
-    "summary": "Przed nami kolejna runda mistrzostw świata na żużlu. Tym razem najlepsi zawodnicy globu będą ścigać się w szwedzkiej Malilli, które jest niejako \"królestwem\" Bartosza Zmarzlika. Polak triumfował tam już cztery razy, choć przed rokiem zrobił to Brady Kurtz, czyli najgroźniejszy rywal naszego rodaka w drodze o złoto. Początek zawodów o 19:00.",
-    "id": "fb406c3c-a1af-4d34-9f72-6060ebc0866a",
-    "category": "Żużel",
-    "category_slug": "zuzel",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/rO0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNmEwOGNhYTA2ODZmODAyZmRlMTNkNzIyYTRlNmRiNS5qcGeSlQPM4s0DGc0KE80Fq5MFzQlgzQZA3gACoTAHoTEE"
-  },
   "285edfe4-57a7-454a-8fa0-8a2a4f6bb5d9": {
     "title": "Jannik Sinner zwrócił się do Novaka Djokovicia. Ależ słowa",
     "link": "https://przegladsportowy.onet.pl/ofsajd/tak-jannik-sinner-zwrocil-sie-do-novaka-djokovicia-poszlo-w-swiat/16zytsj",
@@ -8498,5 +8488,55 @@
     "category": "Tenis",
     "category_slug": "tenis",
     "image": "https://cdn.przegladsportowy.onet.pl/1/TXek9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zYzhlZjRmN2JkN2MyMDIxOGRlOTI0NzQ0NjFmODhjMS5qcGeSlQPNArTNAZPNC4TNBnuTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "eccf70bd-6460-4445-aefe-516ce6d09b6c": {
+    "title": "Polacy już z awansem w Chicago! Zobacz tabelę Ligi Narodów",
+    "link": "https://przegladsportowy.onet.pl/siatkowka/liga-narodow/polacy-juz-z-awansem-w-chicago-zobacz-tabele-ligi-narodow/llff0we",
+    "published": "2026-07-18T03:01:28+00:00",
+    "summary": "Siedem zwycięstw z rzędu i awans w Lidze Narodów! Seria polskich siatkarzy imponuje, a do tego otwiera się szansa, by w Lidze Narodów powalczyć o coś więcej. Gra w turnieju finałowym jest już pewna. Mamy aktualną tabelę.",
+    "id": "eccf70bd-6460-4445-aefe-516ce6d09b6c",
+    "category": "Siatkówka",
+    "category_slug": "siatkowka",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/vQ-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mYmU1ZDBlMGI0MjZkZTdiMWM3MWNlNTNiMzA4MzM1MS5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "a6928bdf-0c90-4417-86f1-8c9b5758a39b": {
+    "title": "Awans! Polacy pogrążyli Brazylię w Lidze Narodów. 3:0",
+    "link": "https://przegladsportowy.onet.pl/siatkowka/reprezentacja-polski/awans-polacy-pograzyli-brazylie-w-lidze-narodow-30/vzj4d5c",
+    "published": "2026-07-18T02:43:59+00:00",
+    "summary": "Polacy w kapitalnym stylu przypieczętowali awans w Lidze Narodów! Pewne jest już, że wystąpią w turnieju finałowym, a równie istotne jest to, co wyprawiali na boisku w Chicago. Biało-Czerwoni byli niemalże nieomylni i zdemolowali Brazylię 3:0! Po hicie gigant ma poważne problemy.",
+    "id": "a6928bdf-0c90-4417-86f1-8c9b5758a39b",
+    "category": "Siatkówka",
+    "category_slug": "siatkowka",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/Wl7k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zNDQ5YWU2YWVmZTRmNzE4YzdiNjQ0NjU2MjRhYzNhOC5qcGeSlQNmS80C7M0BpZMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "c496f62b-be8a-4a30-aeb0-162ce17b9c96": {
+    "title": "Liga Narodów siatkarzy: Brazylia - Polska [RELACJA NA ŻYWO]",
+    "link": "https://przegladsportowy.onet.pl/siatkowka/liga-narodow/brazylia-polska-relacja-na-zywo-liga-narodow-siatkarzy-live/hb9jd2m",
+    "published": "2026-07-18T00:28:00+00:00",
+    "summary": "Polscy siatkarze walczą o siódmy triumf z rzędu w Lidze Narodów! W kolejnym ważnym meczu w Chicago grają z Brazylią. Obie drużyny walczą o awans do fazy pucharowej, a wolnych miejsc jest tylko siedem. Canarinhos znajdują się w dużo gorszej sytuacji, ale różnice w tabeli są niewielkie.",
+    "id": "c496f62b-be8a-4a30-aeb0-162ce17b9c96",
+    "category": "Siatkówka",
+    "category_slug": "siatkowka",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/Cfak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jNWRiMDg1ZTc0NWUxYWZkYTUxNTkxZWE3YjUzZGQ4Yi5qcGeSlQPNAsxTzQsAzQYvkwXNCWDNBkDeAAKhMAehMQQ"
+  },
+  "d9edbe70-dbd6-44d5-a52c-de70270ea113": {
+    "title": "Liga Narodów siatkarzy. Polska – Brazylia. Zobacz, kto wygrał. Wynik na żywo",
+    "link": "https://przegladsportowy.onet.pl/siatkowka/liga-narodow/liga-narodow-siatkarzy-polska-brazylia-zobacz-kto-wygral-wynik-na-zywo/kjxb9fs",
+    "published": "2026-07-18T00:00:00+00:00",
+    "summary": "Polska mierzy się z Brazylią w trzecim turnieju fazy zasadniczej Ligi Narodów siatkarzy 2026. Zobacz, kto wygrał mecz Polska – Brazylia, śledź wynik na żywo i sprawdź najważniejsze informacje o tym spotkaniu.",
+    "id": "d9edbe70-dbd6-44d5-a52c-de70270ea113",
+    "category": "Siatkówka",
+    "category_slug": "siatkowka",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/w0Ak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lM2Q0ZWFiNDUzOTlhOTA4NjVjNWU4N2FmNmNlNGRiMC5qcGeSlQMAzI3NEbbNCfaTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "cfd3c59f-aff4-4f43-8671-00a6aec79cf6": {
+    "title": "Tauron SEC w Zielonej Górze [NA ŻYWO]",
+    "link": "https://przegladsportowy.onet.pl/zuzel/sec/relacja-na-zywo-bieg-po-biegu-sec-w-zielonej-gorze/8vw2zxw",
+    "published": "2026-07-18T03:05:17+00:00",
+    "summary": "Przed nami pierwszy finał indywidualnych mistrzostw Europy. Najlepsi zawodnicy Starego Kontynentu zmierzą się w Zielonej Górze. Tytułu sprzed roku broni reprezentant Polski, Patryk Dudek. Początek zawodów o 19:00.",
+    "id": "cfd3c59f-aff4-4f43-8671-00a6aec79cf6",
+    "category": "Żużel",
+    "category_slug": "zuzel",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/WLxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iODk3ZWEwOTM0MDc3ZjA4ZjQ3ODdjMmUwMTVkODY2NC5qcGeSlQPNARHNATHNDj3NCAOTBc0JYM0GQN4AAqEwB6ExBA"
   }
 }
