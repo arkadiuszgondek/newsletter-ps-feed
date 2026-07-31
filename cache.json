@@ -189,16 +189,6 @@
     "category_slug": "ofsajd",
     "image": "https://cdn.przegladsportowy.onet.pl/1/F4ok9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZDc1NDJlZjEyNmJkOGUxYmJlOTVhYmYwOGFkNjJhZS5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
   },
-  "e89953bf-d051-4119-8162-493bb12fe208": {
-    "title": "Ewa Swoboda ma jasny cel. W ten weekend znów chce to zrobić",
-    "link": "https://przegladsportowy.onet.pl/lekkoatletyka/ewa-swoboda-ma-jasny-cel-w-ten-weekend-znow-chce-to-zrobic/s2pngg0",
-    "published": "2026-07-24T03:30:00+00:00",
-    "summary": "Dwa i pół tygodnia przed docelową imprezą sezonu — mistrzostwami Europy — nasze gwiazdy sprawdzą formę podczas mistrzostw Polski. W Białymstoku wystąpią najwięksi na czele z Ewą Swobodą, Natalią Bukowiecką, Pią Skrzyszowską czy Anitą Włodarczyk, a na stadionie imienia Wojciecha Nowickiego i w rywalizacji z nim samym znów może błysnąć Paweł Fajdek. Szykuje się też parę ciekawych starć — choćby Jakuba Szymańskiego z Damianem Czykierem czy Marii Andrejczyk z Małgorzatą Maślak-Gluglą.",
-    "id": "e89953bf-d051-4119-8162-493bb12fe208",
-    "category": "Lekkoatletyka",
-    "category_slug": "lekkoatletyka",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/QxVk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lODIwZWE5OGUxYzI2MDk4ODVhMThhMzFkNmIyMGM3NS5qcGeSlQPNAwcAzQtJzQZakwXNCWDNBkDeAAKhMAehMQQ"
-  },
   "a7da6663-dbf4-4c5b-aa59-5d22a3faea6a": {
     "title": "Śląski oczami jego bohaterów",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/slaski-oczami-jego-bohaterow/c7fk2bf",
@@ -7948,5 +7938,25 @@
     "category": "Piłka nożna",
     "category_slug": "pilka-nozna",
     "image": "https://cdn.przegladsportowy.onet.pl/1/imBk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wM2E4NGUwODlhNWJiZjAxNTk3NzA2NmZkNDNmN2QzYy5qcGeSlQPNAmoZzQRBzQJkkwXNCWDNBkDeAAKhMAehMQQ"
+  },
+  "393932d3-5140-4a7d-93bd-9461bb739fc0": {
+    "title": "Na Górnika warto było czekać. W Zabrzu mają apetyty na więcej",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/liga-mistrzow/gornik-fenerbahce-11-wicemistrz-polski-postawil-sie-wielkiemu-rywalowi/jedqdx8",
+    "published": "2026-07-31T03:30:00+00:00",
+    "summary": "Wicemistrz Polski nie stracił gola z gry w dwumeczu przeciwko wielkiemu Fenerbahce. O odpadnięciu Górnika zadecydowała tylko jego nieskuteczność.",
+    "id": "393932d3-5140-4a7d-93bd-9461bb739fc0",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/Da-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hODk3ZDk2ZjRlYThiYWJjZTk2NzBkZjQ5ODc5YjE4OC5qcGeSlQPNAzTNASXNEtrNCpuTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "8da294c4-3fe4-4b71-9319-7921d50ca1c9": {
+    "title": "Ten kraj to największy przegrany europejskich pucharów. 10 porażek i koniec",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/liga-konferencji-europy/ten-kraj-to-najwiekszy-przegrany-europejskich-pucharow-10-porazek-i-koniec/z39hy9e",
+    "published": "2026-07-31T03:30:00+00:00",
+    "summary": "0 zwycięstw, 0 remisów, 10 porażek. Z takim bilansem eliminacje europejskich pucharów kończą zespoły z Czarnogóry. Nawet San Marino doszło dalej.",
+    "id": "8da294c4-3fe4-4b71-9319-7921d50ca1c9",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/A1Lk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yZTk3NzY0YTY2YmExMDczNWUyZjkyZjc1ODk5MGYyOC5qcGeSlQPNBGHMqs0IE80Ei5MFzQlgzQZA3gACoTAHoTEE"
   }
 }
