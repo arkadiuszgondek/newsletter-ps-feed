@@ -1,14 +1,4 @@
 {
-  "b30e48d3-6a79-46e7-9161-80ef5916c6c2": {
-    "title": "Grand Prix Challenge w Terenzano [NA ŻYWO]",
-    "link": "https://przegladsportowy.onet.pl/zuzel/grand-prix/relacja-na-zywo-bieg-po-biegu-grand-prix-challenge-w-terenzano/kpxm3nq",
-    "published": "2026-07-25T01:42:57+00:00",
-    "summary": "Już w sobotni wieczór poznamy nazwiska czterech zawodników, którzy jako pierwsi zapewnią sobie udział w przyszłorocznej edycji Speedway Grand Prix. We włoskim Terenzano rozegrany zostanie finałowy turniej Challenge, a wśród uczestników mamy trzech reprezentantów Polski: Kacpra Worynę, Dominika Kuberę i Macieja Janowskiego. Czy któremuś z biało-czerwonych uda się zakończyć imprezę w czołowej czwórce i wywalczyć przepustkę do SGP 2027? Początek zawodów o 20:15.",
-    "id": "b30e48d3-6a79-46e7-9161-80ef5916c6c2",
-    "category": "Żużel",
-    "category_slug": "zuzel",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/z58k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80Yjg4NTZkNTEwY2Q2M2IyZDM3ZTkyN2VlYTkxZDU3ZS5qcGeSlQMBzQEpzQ3VzQfHkwXNCWDNBkDeAAKhMAehMQQ"
-  },
   "6ab2d8c3-577a-43ec-9ac1-f3d9a2e8229c": {
     "title": "Krzysztof Marciniak: ekstremalny sezon Ekstraklasy był jedynie zapowiedzią obecnego",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/ekstremalny-sezon-ekstraklasy-byl-jedynie-zapowiedzia-obecnego/gyrvfyh",
@@ -58,16 +48,6 @@
     "category": "Piłka nożna",
     "category_slug": "pilka-nozna",
     "image": "https://cdn.przegladsportowy.onet.pl/1/mVQk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wNGY5YzFiOWVkNWU5MjA1NDc2ZmE4ZGE3ODFlYjZhYi5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
-  },
-  "a368ed71-d619-43a7-88aa-920ce9b6eec0": {
-    "title": "Schulze szuka przełamania. Wicemistrz rusza na ligowy front",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/gornik-slask-nowy-bramkarz-wicemistrza-w-poszukiwaniu-przelamania/crn88mg",
-    "published": "2026-07-25T03:30:00+00:00",
-    "summary": "Górnik Zabrze przegrał oba dotychczasowe mecze w nowym sezonie, jednak w jego obozie panuje… optymizm. W sobotę ma być komplet punktów z beniaminkiem Śląskiem Wrocław.",
-    "id": "a368ed71-d619-43a7-88aa-920ce9b6eec0",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/s2tk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wN2ZmZDBjZjQ4ODgzZjEzZWJiYTE3ZDM4M2E1YmI0MC5qcGeSlQPNApTNAQLNCZ7NBWmTBc0JYM0GQN4AAqEwB6ExBA"
   },
   "d3162ad3-b4aa-4f81-80c7-cb6fd07dd037": {
     "title": "Wielkie zmiany u Mai Chwalińskiej. Menedżer Polki mówi wprost",
@@ -8168,5 +8148,15 @@
     "category": "Szachy",
     "category_slug": "szachy",
     "image": "https://cdn.przegladsportowy.onet.pl/1/J1Pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80ODBhMzliOTY2MGMyZjg3YjY0NjBlMzkwZjA4MWMwMi5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "327013a4-db1d-40e2-b42e-84c0213c5840": {
+    "title": "Grand Prix Polski w Łodzi [NA ŻYWO]",
+    "link": "https://przegladsportowy.onet.pl/zuzel/grand-prix/relacja-live-bieg-po-biegu-zuzlowe-grand-prix-polski-w-lodzi/r0lm03l",
+    "published": "2026-08-01T02:20:50+00:00",
+    "summary": "Przed nami kolejna odsłona cyklu Grand Prix. Tym razem najlepsi zawodnicy na świecie zmierzą się w Łodzi. Czy Bartosz Zmarzlik odskoczy Brady'emu Kurtzowi? A może to Australijczyk zniweluje przewagę? Początek zmagań o 19:00.",
+    "id": "327013a4-db1d-40e2-b42e-84c0213c5840",
+    "category": "Żużel",
+    "category_slug": "zuzel",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/8Gmk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNmY0YjlkMjIxNTkxNTE1ZTg3MzBiYWY3MWM2ZGJlYi5qcGeSlQMBzLrNDdXNB8eTBc0JYM0GQN4AAqEwB6ExBA"
   }
 }
