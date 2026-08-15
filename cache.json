@@ -1,24 +1,4 @@
 {
-  "bc460aa6-8d73-426b-86e9-45ab2eac0dfc": {
-    "title": "Burza po słowach Katarzyny Niewiadomej. Liderka TdF odpowiada",
-    "link": "https://przegladsportowy.onet.pl/kolarstwo/burza-po-slowach-katarzyny-niewiadomej-liderka-tdf-odpowiada/m63dcwx",
-    "published": "2026-08-08T21:28:23+00:00",
-    "summary": "— Myślę, że Kasia w głębi duszy też wie, że takie rzeczy czasami się zdarzają w wyścigach — mówi Demi Vollering cytowana przez lefigaro.fr. Nowa liderka Tour de France staje w obronie swojej koleżanki z drużyny. To reakcja na burzę, która rozpętała się po słowach Katarzyny Niewiadomej-Phinney.",
-    "id": "bc460aa6-8d73-426b-86e9-45ab2eac0dfc",
-    "category": "Kolarstwo",
-    "category_slug": "kolarstwo",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/t05k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84NTZiNTljYzc1MmRmMWZmMTVhNmJjMGU5YTNlNGNjMy5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
-  },
-  "a257d285-c7aa-4b45-a014-51844377dd72": {
-    "title": "Alarm w sprawie Oskara Pietuszewskiego. Trener Porto ogłasza",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/inne-ligi/alarm-w-sprawie-oskara-pietuszewskiego-trener-porto-oglasza/72m3bdv",
-    "published": "2026-08-08T21:48:45+00:00",
-    "summary": "Oskar Pietuszewski nie zagra w najbliższym meczu FC Porto, co potwierdził trener Francesco Farioli. Oto powód. Wiadomo też, co z Janem Bednarkiem.",
-    "id": "a257d285-c7aa-4b45-a014-51844377dd72",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/u0hk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84MjY2NTlkZWMzNjdiMjkyMjRlZmRiNjY4ZWQ4ZGZlNS5qcGeSlQPNAvjNAlDNGRDNDhiTBc0JYM0GQN4AAqEwB6ExBA"
-  },
   "ed5f0664-a448-47c4-a8e2-df1dfb9b383f": {
     "title": "Aryna Sabalenka wyrzucona. Nocny przewrót w Toronto, co za bitwa",
     "link": "https://przegladsportowy.onet.pl/tenis/aryna-sabalenka-wyrzucona-nocny-przewrot-w-toronto-co-za-bitwa/xv7nj5d",
@@ -8288,5 +8268,35 @@
     "category": "Lekkoatletyka",
     "category_slug": "lekkoatletyka",
     "image": "https://cdn.przegladsportowy.onet.pl/1/j24k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81ODU0MTA3Mzg2ODUwZWYxNmIyNDM4OWZjMjZjYWQ4MC5qcGeSlQMAas0NQc0HdJMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "a3f4b827-80a7-4b3c-97aa-9981b3e3de1e": {
+    "title": "Jakub Kiwior już cieszył się z gola. Decyzja VAR przerwała radość",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/nieuznany-gol-jakuba-kiwiora-i-tak-ma-sie-jednak-z-czego-cieszyc/w87cfpe",
+    "published": "2026-08-15T21:31:18+00:00",
+    "summary": "Jakub Kiwior strzelił gola dla FC Porto, ale sędziowie VAR go nie uznali. Jego drużyna, w której zagrał też Jan Bednarek, wygrała 2:0. W tym sezonie zespół Polaków na razie wygrał wszystkie mecze i to bez straty bramki. I tylko Oskar Pietuszewski na razie nie ma się z czego cieszyć.",
+    "id": "a3f4b827-80a7-4b3c-97aa-9981b3e3de1e",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/hugk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lOWYwZDJjZDJkNzQxNDE4MTRjMTg2MWYwZjE2YmNiYi5qcGeSlQPNATbNAdDND5PNCMOTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "ea1757e1-f6be-4fc3-9ebb-541e7e91800f": {
+    "title": "Novak Djoković wyrzucony z Cincinnati. Walczył niemal trzy godziny",
+    "link": "https://przegladsportowy.onet.pl/tenis/novak-djokovic-wyrzucony-z-cincinnati-walczyl-niemal-trzy-godziny/9lj3zgg",
+    "published": "2026-08-15T21:40:06+00:00",
+    "summary": "Novak Djoković zakończył udział w turnieju ATP Masters 1000 w Cincinnati już w drugiej rundzie! Serb przegrał z Thiagiem Augustem Tirante 6:2, 4:6, 4:6 po niemal trzech godzinach. Mierzył się nie tylko z rywalem, ale i ogromnymi problemami ze zdrowiem.",
+    "id": "ea1757e1-f6be-4fc3-9ebb-541e7e91800f",
+    "category": "Tenis",
+    "category_slug": "tenis",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/0a3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zZDk2MjI4MDhkYjVkMzQyOGVkNjFhZThhNWZjZTk4My5qcGeSlQMAzQKszRL2zQqrkwXNCWDNBkDeAAKhMAehMQQ"
+  },
+  "7e7a7007-06f3-4c63-a8e8-59024705c8bb": {
+    "title": "Rekord świata! Błyskawiczna odpowiedź na wielki wyczyn Polki",
+    "link": "https://przegladsportowy.onet.pl/plywanie/rekord-swiata-blyskawiczna-odpowiedz-na-wielki-wyczyn-polki/brdpren",
+    "published": "2026-08-15T21:53:00+00:00",
+    "summary": "Katarzyna Wasick podczas mistrzostw Europy w Paryżu zdobyła złoty medal na 50 m stylem dowolnym i ustanowiła nowy rekord Polski. Jej wynik 23,84 s długo jednak nie był najlepszym rezultatem dnia. Zaledwie chwilę później z drugiej strony Atlantyku nadeszła spektakularna odpowiedź.",
+    "id": "7e7a7007-06f3-4c63-a8e8-59024705c8bb",
+    "category": "Pływanie",
+    "category_slug": "plywanie",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/d5rk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kZmI5NzE4NzgyNTlkNzE5MzI5ODAzNTNhODc5NDI1YS5qcGeSlQMAzJDNEhXNCiuTBc0JYM0GQN4AAqEwB6ExBA"
   }
 }
