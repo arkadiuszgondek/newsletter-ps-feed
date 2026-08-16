@@ -1,14 +1,4 @@
 {
-  "ed5f0664-a448-47c4-a8e2-df1dfb9b383f": {
-    "title": "Aryna Sabalenka wyrzucona. Nocny przewrót w Toronto, co za bitwa",
-    "link": "https://przegladsportowy.onet.pl/tenis/aryna-sabalenka-wyrzucona-nocny-przewrot-w-toronto-co-za-bitwa/xv7nj5d",
-    "published": "2026-08-09T01:39:23+00:00",
-    "summary": "Co to był za nocny thriller w Toronto! Aryna Sabalenka była pod ścianą, wróciła, a następnie wyjątkowo boleśnie przegrała decydującą partię starcia z Jekatieriną Aleksandrową. O tym meczu będzie bardzo głośno.",
-    "id": "ed5f0664-a448-47c4-a8e2-df1dfb9b383f",
-    "category": "Tenis",
-    "category_slug": "tenis",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/IzWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kOTliMmVhMzkxODgxNTMxNDBjNGY2M2FhNDhlN2QzOS5qcGeSlQPNAXx-zQ9-zQi3kwXNCWDNBkDeAAKhMAehMQQ"
-  },
   "1e5f460f-9f8b-446b-bec5-fb727b988cdb": {
     "title": "Bartłomiej Drągowski wraca do Białegostoku po 10 latach",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/bartlomiej-dragowski-wraca-do-bialegostoku-po-10-latach/evgpect",
@@ -8298,5 +8288,15 @@
     "category": "Pływanie",
     "category_slug": "plywanie",
     "image": "https://cdn.przegladsportowy.onet.pl/1/d5rk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kZmI5NzE4NzgyNTlkNzE5MzI5ODAzNTNhODc5NDI1YS5qcGeSlQMAzJDNEhXNCiuTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "e4f7a29e-794d-4e85-b79a-636348cb9b7e": {
+    "title": "Trzy godziny walki Hurkacza i smutny koniec. Pożegnanie z Cincinnati",
+    "link": "https://przegladsportowy.onet.pl/tenis/meczarnie-huberta-hurkacza-i-bolesny-koniec-to-koniec-marzen/ppcq0x8",
+    "published": "2026-08-16T00:01:59+00:00",
+    "summary": "Hubert Hurkacz żegna się z Cincinnati. Skuteczną przeszkodą dla polskiego tenisisty okazał się Tommy Paul, który wygrał 6:4, 6:7 (3:7), 6:3. Rywalizacja była bardzo zacięta, a szczególnie interesujący okazał się tie-break w drugim secie.",
+    "id": "e4f7a29e-794d-4e85-b79a-636348cb9b7e",
+    "category": "Tenis",
+    "category_slug": "tenis",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/XOHk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lN2NiNDIxZTQwYjc0MmQ1OWFiMjM0M2JjY2RmN2FhYy5qcGeSlQMAf80P5s0I8ZMFzQlgzQZA3gACoTAHoTEE"
   }
 }
