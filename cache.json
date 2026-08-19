@@ -1,34 +1,4 @@
 {
-  "d47aa79f-971e-40cb-9eaa-b642ead26014": {
-    "title": "Alarm przed meczem Lecha Poznań. Rewanż poważnie zagrożony",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/liga-europy/alarm-przed-meczem-lecha-poznan-rewanz-powaznie-zagrozony/mwz8v1n",
-    "published": "2026-08-12T14:11:27+00:00",
-    "summary": "Czwartkowy rewanż Lecha Poznań w Lidze Europy może się nie odbyć w zaplanowanym terminie. Drużyna przeszła już odprawę, ale samolot utknął na lotnisku i wciąż nie dostał zgody na start. Pojawił się już scenariusz na wypadek przedłużających się kłopotów.",
-    "id": "d47aa79f-971e-40cb-9eaa-b642ead26014",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/66Ek9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xZjcxNGJjMjY3Zjk4NDMyYTBlZTBkZjQ3MmVhZTkyMS5qcGeSlQMAb80N180HyJMFzQlgzQZA3gACoTAHoTEE"
-  },
-  "182cdd03-c21a-45e6-bc0c-c54772bb028e": {
-    "title": "Co za wpis byłego prezydenta Gorzowa. W Zielonej Górze zrobi się gorąco",
-    "link": "https://przegladsportowy.onet.pl/zuzel/ekstraliga/co-za-wpis-bylego-prezydenta-gorzowa-uderza-w-sprawie-falubazu/420p36v",
-    "published": "2026-08-12T13:59:02+00:00",
-    "summary": "Przed Falubazem Zielona Góra walka o utrzymanie w PGE Ekstralidze, ale to nie jedyny problem. W klubie jest dziura budżetowa. Klub chce, aby dodatkowe dwa miliony przekazało miasto, bo może być problem z uzyskaniem licencji na sezon 2027 w PGE Ekstralidze. Sprawa oczywiście wzbudza ogromne emocje. W ostrym tonie wypowiedział się o niej były wieloletni prezydent Gorzowa.",
-    "id": "182cdd03-c21a-45e6-bc0c-c54772bb028e",
-    "category": "Żużel",
-    "category_slug": "zuzel",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/15Uk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82ZGYwOWRhMGEwZmZmOWUyMGY3NjZjOGRlNDg5N2NiYy5qcGeSlQMAb80N180HyJMFzQlgzQZA3gACoTAHoTEE"
-  },
-  "efdacbd9-c23e-4aa3-bcd7-8524226fb86b": {
-    "title": "Oficjalnie. Polska gra z Rosją. To dlatego się na to godzimy",
-    "link": "https://przegladsportowy.onet.pl/inne-sporty/oficjalnie-polska-gra-z-rosja-to-dlatego-sie-na-to-godzimy/xe8y3sh",
-    "published": "2026-08-12T13:52:07+00:00",
-    "summary": "\"Nie ma po prostu możliwości odwołania tego meczu\" — komentuje Otylia Jędrzejczak. Szefowa Polskiego Związku Pływackiego wprost reaguje w sprawie spotkania Polska — Rosja w piłce wodnej. Pierwszego takiego od czasu wybuchu wojny w Ukrainie.",
-    "id": "efdacbd9-c23e-4aa3-bcd7-8524226fb86b",
-    "category": "Inne sporty",
-    "category_slug": "inne-sporty",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/efhk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xNTVkMTgyOWRlMTg5MDljNmVlNjY3OWQ2NjEwY2JjZS5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
-  },
   "52349509-dc64-4afe-b326-40878642d312": {
     "title": "Potężny cios dla rywali Jagiellonii Białystok. Kluczowi gracze kontuzjowani",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/liga-europy/potezny-cios-dla-rywali-jagiellonii-bialystok-kluczowi-gracze-kontuzjowani/kzknbck",
@@ -88,16 +58,6 @@
     "category": "Żużel",
     "category_slug": "zuzel",
     "image": "https://cdn.przegladsportowy.onet.pl/1/F2yk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kYWQ2YjkxOGRlZmQ1MmVjMDYxYTljY2U1YjJjNzlmMy5qcGeSlQMAXc0LuM0Gl5MFzQlgzQZA3gACoTAHoTEE"
-  },
-  "30aaf87f-05b3-442c-9337-2608b5dbc587": {
-    "title": "Oficjalnie. Polak powraca do Formuły 1. Właśnie to ogłosili",
-    "link": "https://przegladsportowy.onet.pl/formula-1/wielki-powrot-polaka-do-formuly-1-to-oficjalnie-potwierdzone/6fj3gzz",
-    "published": "2026-08-12T14:37:20+00:00",
-    "summary": "Niewielu się tego spodziewało, ale Polak powraca do Formuły 1. Marcin Budkowski w środę został oficjalnie ogłoszony nowym szefem zespołu Cadillac F1 Team, rozpoczynając swoją pracę w trybie natychmiastowym.",
-    "id": "30aaf87f-05b3-442c-9337-2608b5dbc587",
-    "category": "Formuła 1",
-    "category_slug": "formula-1",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/rSgk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82NTU2MmU4ZTViNTUxODQxMzU0MmRmM2M2ZjY0MDUwNS5qcGeSlQPNBIDNATDNCQ3NBRiTBc0JYM0GQN4AAqEwB6ExBA"
   },
   "0413087a-9bd2-4c9a-b8de-fbf9cad01e11": {
     "title": "Oto nowy klub Romelu Lukaku. To tam mógł trafić Robert Lewandowski",
@@ -7758,5 +7718,95 @@
     "category": "Czas na bieganie",
     "category_slug": "czas-na-bieganie",
     "image": "https://cdn.przegladsportowy.onet.pl/1/1c2k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lOGY0YWRkYmFhNzFlOGUxNmVlZTZkODc1YWU0NWE2YS5wbmeSlQMrAM0EZc0CeZMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "1e88323d-92ce-40e0-850f-b5b52d11a268": {
+    "title": "Cracovia ma nowego napastnika. Tyle zapłacili",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/cracovia-ma-nowego-napastnika-tyle-zaplacili/z0crf1x",
+    "published": "2026-08-19T14:24:17+00:00",
+    "summary": "Belg Mohamed Berte został nowym piłkarzem Cracovii — informuje krakowski klub. Napastnik podpisał z Pasami kontrakt ważny do 30 czerwca 2029 r.",
+    "id": "1e88323d-92ce-40e0-850f-b5b52d11a268",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/HENk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NzdiNjA4NGIyNTJjNDNhMWNlNzcxN2I0MDVjNjUxNC5qcGeSlQMAzJ_NE-TNCzCTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "93bcf5b3-40f0-4dec-ab34-b6babfbcc6a6": {
+    "title": "Problemy Lecha przed kluczowym meczem. To największy dylemat",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/liga-europy/problemy-lecha-przed-kluczowym-meczem-to-najwiekszy-dylemat/88rz65x",
+    "published": "2026-08-19T14:20:17+00:00",
+    "summary": "Piłkarze Lecha Poznań, mocno osłabieni, przystąpią do rywalizacji ze szwajcarskim FC Thun w czwartej rundzie eliminacji Ligi Europy. Największym dylematem trenera Nielsa Frederiksena jest obsada pozycji napastnika.",
+    "id": "93bcf5b3-40f0-4dec-ab34-b6babfbcc6a6",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/qzik9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80MTBjYmVlMS1mNzMxLTRhNWQtYTA0YS0xNDllOWM1ZTU2YWYuanBlZ5KVAwLNAeDNEqXNCn-TBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "23430555-6c35-4cd6-9318-61288eb304e2": {
+    "title": "Marek Papszun reaguje na aferę wokół polskich sędziów. Jednoznacznie",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/marek-papszun-reaguje-na-afere-wokol-polskich-sedziow-jednoznacznie/4xgqcsn",
+    "published": "2026-08-19T14:13:01+00:00",
+    "summary": "Marek Papszun nie ukrywa, że wiele razy miał wielkie pretensje do sędziów. Odpuścił, gdy poczuł, że jego słowa nic nie dają. Teraz po aferze związanej z PZPN i Centrum VAR trener Legii odzyskał nadzieję. — Może będzie to sygnał do zreformowania całego środowiska — uważa.",
+    "id": "23430555-6c35-4cd6-9318-61288eb304e2",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/7jMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84ZjMzYzU0NTFjYjIzYzE4NTc2NmI5NTY5MmZmYzM1Ny5qcGeSlQPNAunNA7LNBSvNAuiTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "587cfa03-630a-40f9-bde4-0cec2970a1da": {
+    "title": "Marek Papszun niczego nie ukrywa. Oto prawda o transferach Legii Warszawa",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/marek-papszun-niczego-nie-ukrywa-oto-prawda-o-transferach-legii-warszawa/b72jkjl",
+    "published": "2026-08-19T13:49:31+00:00",
+    "summary": "Marek Papszun został zapytany o transferowe plany Legii Warszawa przed końcową fazą letniego okna. Trener nie zamierzał ukrywać, że klub znajduje się w drugiej sytuacji finansowe. — O żadnym transferze przychodzącym w tej chwili nic nie wiem — ujawnia, ale jednocześnie niczego nie wyklucza.",
+    "id": "587cfa03-630a-40f9-bde4-0cec2970a1da",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/roUk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84N2JmMGM3NTM5MmUwOTQ5NWZkYmIzZmRlNjc2MzI2NC5qcGeSlQMAYc0MJs0G1ZMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "3f8c0ee6-5136-4adb-a523-527e14b97f4b": {
+    "title": "Iga Świątek — Diane Parry [RELACJA NA ŻYWO]",
+    "link": "https://przegladsportowy.onet.pl/tenis/iga-swiatek-diane-parry-relacja-na-zywo-wyniki-live/kbt8hw6",
+    "published": "2026-08-19T14:00:00+00:00",
+    "summary": "Rozpędzona Iga Świątek chce pokonać kolejną rywalkę! Tuż po triumfie w Toronto, Polka zagra o ćwierćfinał w Cincinnati. Relacja z meczu Iga Świątek — Diane Parry w środę 19 sierpnia o godz. 17.00.",
+    "id": "3f8c0ee6-5136-4adb-a523-527e14b97f4b",
+    "category": "Tenis",
+    "category_slug": "tenis",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/qf7k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80ODM3YTUzZTZmY2VjZTIyMGQyZmI2ZmEzZTQ5ZWRiMy5qcGeSlQMAzIfNDrHNCEOTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "4260a655-1816-4002-83ef-aca55ade88c9": {
+    "title": "Lambert nie ma wątpliwości: \"Z Dudkiem mielibyśmy bonus\"",
+    "link": "https://przegladsportowy.onet.pl/zuzel/ekstraliga/robert-lambert-po-meczu-torun-sparta-z-dudkiem-mielibysmy-bonus/c8se2lj",
+    "published": "2026-08-19T13:45:00+00:00",
+    "summary": "Pres Grupa Deweloperska Toruń, choć wygrała niedzielne spotkanie z Betard Spartą Wrocław 48:42, praktycznie nie ma już szans na wygranie rundy zasadniczej PGE Ekstraligi. Wszystko dlatego, że goście zdołali obronić punkt bonusowy, a w ostatniej kolejce zmierzą się na własnym torze z czerwoną latarnią ligi, Krono-Plast Włókniarzem Częstochowa. Robert Lambert jest jednak przekonany, że z Patrykiem Dudkiem niedzielny mecz potoczyłby się inaczej. — To my cieszylibyśmy się z punktu bonusowego — zapewnia Brytyjczyk.",
+    "id": "4260a655-1816-4002-83ef-aca55ade88c9",
+    "category": "Żużel",
+    "category_slug": "zuzel",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/rrNk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80MzMzYTQ1ZTA5OGJmOTczYjZkNjRlYjU0ZTdiOWY0MS5qcGeSlQMAzMfNDVbNB4KTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "6c5f15a2-f8db-4b4b-9e9f-080ac08ce50a": {
+    "title": "Dzieli je duża różnica wieku. Związek Katarzyny Zillmann z tancerką kwitnie",
+    "link": "https://przegladsportowy.onet.pl/ofsajd/dzieli-je-duza-roznica-wieku-zwiazek-katarzyny-zillmann-z-tancerka-kwitnie/pwhyt44",
+    "published": "2026-08-19T14:22:47+00:00",
+    "summary": "Katarzyna Zillmann od jakiegoś czasu jest w szczęśliwym związku z Janją Lesar, którą poznała dzięki programowi \"Taniec z gwiazdami\". Teraz panie pojawiły się na spotkaniu prasowym reality show \"Azja Express\". Wioślarka i starsza od niej o 18 lat tancerka przykuły uwagę fotoreporterów.",
+    "id": "6c5f15a2-f8db-4b4b-9e9f-080ac08ce50a",
+    "category": "Ofsajd",
+    "category_slug": "ofsajd",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/mRRk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iODYwNDE2NS1lZWYxLTQ0YzItODM5My00NmRkOWM5MTkzYWMuanBlZ5KVAwAAzRdwzQ0vkwXNCWDNBkDeAAKhMAehMQQ"
+  },
+  "a52542db-4ce0-4698-9a25-4468b28d55bf": {
+    "title": "Koniec marzeń Polek w MŚ. Niestety",
+    "link": "https://przegladsportowy.onet.pl/badminton/koniec-marzen-polek-w-ms-niestety/s5gwz52",
+    "published": "2026-08-19T14:28:42+00:00",
+    "summary": "Kornelia Marczak i Paulina Cybulska odpadły w drugiej rundzie gry podwójnej na mistrzostwach świata w badmintonie, rozgrywanych w Indiach. Polki przegrały z rozstawionymi z numerem ósmym Chinkami Yijing Li i Xu Min Luo 0:2 (8:21, 10:21).",
+    "id": "a52542db-4ce0-4698-9a25-4468b28d55bf",
+    "category": "Badminton",
+    "category_slug": "badminton",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/OMRk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82NjY2OGM0MDM0NTQ5M2M0NTAxNTQ5YTkyNTI1YzE2MC5qcGeSlQMAzKPNFFzNC3OTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "60c582ce-f4b3-49f4-99e0-a50afe30797c": {
+    "title": "Pilna zmiana przed GP F1. Jest ogłoszenie",
+    "link": "https://przegladsportowy.onet.pl/formula-1/pilna-zmiana-przed-gp-f1-jest-ogloszenie/qzkxwn0",
+    "published": "2026-08-19T14:17:00+00:00",
+    "summary": "Francuz Isack Hadjar, kierowca Red Bull Racing, z powodu kontuzji nadgarstka, której doznał podczas treningu, nie wystartuje w niedzielę w wyścigu o Grand Prix Holandii — 12. rundzie mistrzostw świata Formuły 1. Zastąpi go Nowozelandczyk Liam Lawson z siostrzanego zespołu Racing Bulls.",
+    "id": "60c582ce-f4b3-49f4-99e0-a50afe30797c",
+    "category": "Formuła 1",
+    "category_slug": "formula-1",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/XYWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ODBjMzcwMWI1MDJjOWQ4NDAzOWJiNTcyZWVjODVlMi5qcGeSlQMAzLzNF3DNDS-TBc0JYM0GQN4AAqEwB6ExBA"
   }
 }
