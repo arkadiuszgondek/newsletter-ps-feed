@@ -1,14 +1,4 @@
 {
-  "e4f7a29e-794d-4e85-b79a-636348cb9b7e": {
-    "title": "Trzy godziny walki Hurkacza i smutny koniec. Pożegnanie z Cincinnati",
-    "link": "https://przegladsportowy.onet.pl/tenis/meczarnie-huberta-hurkacza-i-bolesny-koniec-to-koniec-marzen/ppcq0x8",
-    "published": "2026-08-16T00:01:59+00:00",
-    "summary": "Hubert Hurkacz żegna się z Cincinnati. Skuteczną przeszkodą dla polskiego tenisisty okazał się Tommy Paul, który wygrał 6:4, 6:7 (3:7), 6:3. Rywalizacja była bardzo zacięta, a szczególnie interesujący okazał się tie-break w drugim secie.",
-    "id": "e4f7a29e-794d-4e85-b79a-636348cb9b7e",
-    "category": "Tenis",
-    "category_slug": "tenis",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/XOHk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lN2NiNDIxZTQwYjc0MmQ1OWFiMjM0M2JjY2RmN2FhYy5qcGeSlQMAf80P5s0I8ZMFzQlgzQZA3gACoTAHoTEE"
-  },
   "f44b7e61-4758-4f12-941e-d927e70c11fd": {
     "title": "Gorąco po tym, co zrobiła Maja Chwalińska w Cincinnati. Od razu wydali werdykt",
     "link": "https://przegladsportowy.onet.pl/tenis/goraco-po-tym-co-zrobila-maja-chwalinska-w-cincinnati-od-razu-wydali-werdykt/9xp56xh",
@@ -7928,5 +7918,25 @@
     "category": "Tenis",
     "category_slug": "tenis",
     "image": "https://cdn.przegladsportowy.onet.pl/1/fh-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMmNlOTZjZTMwMGVkMjgzNTQwNDlmZjYyMzY0M2RiMC5wbmeSlQPNAsXMps0Nu80Hu5MFzQlgzQZA3gACoTAHoTEE"
+  },
+  "87a38570-0d4f-45df-bea6-8ba23fa84b73": {
+    "title": "Fenomenalny gol nie wystarczył. Koniec pięknej passy Chicago Fire",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mls/robert-lewandowski-bezradny-piekny-gol-nie-wystarczyl-koniec-passy-chicago-fire/rkfwj1n",
+    "published": "2026-08-23T01:37:24+00:00",
+    "summary": "Robert Lewandowski wszedł z ławki i nie zdołał uchronić Chicago Fire przed stratą punktów (1:1 z New York Red Bulls). Zwycięska passa Strażaków dobiegła końca. I to pomimo przepięknego gola Strażaków. To trzeba zobaczyć.",
+    "id": "87a38570-0d4f-45df-bea6-8ba23fa84b73",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/wF2k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82ZTViNDI5MThiMzdlZjE1ZGMzMTQxNmQ3MzFmYzM0MS5qcGeSlQMAb80Lvc0GmpMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "a9d99cef-f44c-4599-9c6b-bfb7bb2ce15b": {
+    "title": "New York Red Bulls - Chicago Fire [RELACJA NA ŻYWO]",
+    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mls/new-york-red-bulls-chicago-fire-relacja-na-zywo-lewandowski-z-golem-w-mls-live/5ntkmlf",
+    "published": "2026-08-22T23:30:00+00:00",
+    "summary": "New York Red Bulls - Chicago Fire to pojedynek drużyn z konferencji wschodniej Major League Soccer. Wyżej w tabeli jest aktualnie zespół, w którym występują Robert Lewandowski i David Poręba, natomiast ich rywale nie mają pewności gry w play-offach. W ekipie z Nowego Jorku gra między innymi mający polski rodowód Julian Zakrzewski-Hall. 18-latek został okrzyknięty \"nowym Lewandowskim\".",
+    "id": "a9d99cef-f44c-4599-9c6b-bfb7bb2ce15b",
+    "category": "Piłka nożna",
+    "category_slug": "pilka-nozna",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/kK7k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kOGExNDcxMzlhMzBjMmM3ZDMyZjhhOTY2YzFhY2JhMC5qcGeSlQMCzILNFybNDQiTBc0JYM0GQN4AAqEwB6ExBA"
   }
 }
