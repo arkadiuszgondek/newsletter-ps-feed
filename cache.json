@@ -1,14 +1,4 @@
 {
-  "980bfede-d313-4622-80ef-bf4687f0ffe3": {
-    "title": "Pięć minut wystarczyło. Występ Lewandowskiego mówi sam za siebie",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/mls/piec-minut-wystarczylo-wystep-lewandowskiego-mowi-sam-za-siebie/vcw7bek",
-    "published": "2026-08-17T00:17:02+00:00",
-    "summary": "Chicago Fire pokonało przed własną publicznością Portland Timbers 2:1 w nocnym spotkaniu Major League Soccer. Choć Strażacy błyskawicznie ustawili sobie mecz dwoma golami w pierwszym kwadransie, polscy kibice mogą czuć spory niedosyt po występie Roberta Lewandowskiego.",
-    "id": "980bfede-d313-4622-80ef-bf4687f0ffe3",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/TGxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yZjdkMjc5ZTU1MmFmZWI3YjBmYTlmZmE1ZGIzMGE3YS5qcGeSlQPNAvvNAcnNEKTNCVyTBc0JYM0GQN4AAqEwB6ExBA"
-  },
   "65fe38c8-b738-44ec-945f-3564d1fdfada": {
     "title": "Dominacja w meczu Ukrainki w Cincinnati. Potem nie podała ręki rywalce",
     "link": "https://przegladsportowy.onet.pl/tenis/dominacja-w-meczu-ukrainki-w-cincinnati-potem-nie-podala-reki-rywalce/5t6zzn0",
@@ -8028,5 +8018,15 @@
     "category": "Piłka nożna",
     "category_slug": "pilka-nozna",
     "image": "https://cdn.przegladsportowy.onet.pl/1/E4Ik9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zYzNkODlhODRlZDBiYjM1ZmQyNWIxYzhhZjk5ZTdmZS5qcGeSlQPNAiNszQeYzQRGkwXNCWDNBkDeAAKhMAehMQQ"
+  },
+  "ea967f6f-52da-440b-85a0-680c27e3fa30": {
+    "title": "Hubert Hurkacz – Sebastian Baez — zobacz, kto wygrał finał w Cancun. Wynik na żywo",
+    "link": "https://przegladsportowy.onet.pl/tenis/hubert-hurkacz-sebastian-baez-zobacz-kto-wygral-final-w-cancun-wynik-na-zywo/p4lczr8",
+    "published": "2026-08-24T01:00:00+00:00",
+    "summary": "Hubert Hurkacz i Sebastián Baez to finał turnieju ATP Tour w Cancun. Zobacz, kto wygrał ten mecz i śledź wynik na żywo.",
+    "id": "ea967f6f-52da-440b-85a0-680c27e3fa30",
+    "category": "Tenis",
+    "category_slug": "tenis",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/2iQk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81MDkwZjFkNzZmMTk2ZTBlNjdmZjExZTFiMGViZmI3OC5qcGeSlQPNCo09zRBwzQk_kwXNCWDNBkDeAAKhMAehMQQ"
   }
 }
