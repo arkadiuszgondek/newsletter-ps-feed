@@ -9,16 +9,6 @@
     "category_slug": "felietony",
     "image": "https://cdn.przegladsportowy.onet.pl/1/7Q8k9lCaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85YTlhM2I2MjZiMzExNGZlOGRlZjk0MjZmZDljMTk1Yi5qcGVnkpUDACHNBQDNAtCTBc0JYM0GQN4AAqEwB6ExBA"
   },
-  "6fc978cc-ab27-4cdf-bca1-2ba5d310045d": {
-    "title": "Szalony mecz Realu Madryt. Pięć bramek, i ten decydujący w 91. minucie",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/szalony-mecz-realu-madryt-piec-bramek-i-ten-decydujacy-w-91-minucie/lpwhfkm",
-    "published": "2026-09-15T21:28:58+00:00",
-    "summary": "Real Madryt po meczu pełnym zwrotów akcji pokonał na wyjeździe Elche 3:2. Piłkarze Jose Mourinho musieli ratować się przed dużą wpadką w doliczonym czasie gry. Uratował ich wchodzący z ławki 21-latek. Zobacz upragnione trafienie Realu.",
-    "id": "6fc978cc-ab27-4cdf-bca1-2ba5d310045d",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/mDsk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wMzkxOGRhMC01NmVjLTQ4ZTEtODYzYS00OTg3NWRiNmFiOGEuanBlZ5KVA80DlM0Bqs0GUM0DjZMFzQlgzQZA3gACoTAHoTEE"
-  },
   "7568c63d-18d3-4c53-8d69-448c8b5f0265": {
     "title": "Polka błyszczy w Niemczech. Dwa gole z Bayernem Monachium",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/pilka-nozna-kobiet/polka-blyszczy-w-niemczech-dwa-gole-z-bayernem-monachium/tsvw0by",
@@ -8948,5 +8938,25 @@
     "category": "Boks",
     "category_slug": "boks",
     "image": "https://cdn.przegladsportowy.onet.pl/1/Bl3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNTRiODcyZDY4NjYwNzNiNzljOGM2MTMxNmFiZjUwZC5qcGeSlQMCGc0Qmc0JWJMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "04a56276-96b0-42b7-8299-3dd1e64a4843": {
+    "title": "Aryna Sabalenka w roli modelki! Gwiazda błyszczała na wybiegu w Mediolanie",
+    "link": "https://przegladsportowy.onet.pl/ofsajd/aryna-sabalenka-blyszczala-na-wybiegu-w-mediolanie-skradla-show/2mjhtwj",
+    "published": "2026-09-22T21:15:24+00:00",
+    "summary": "We wtorkowy wieczór w słynnej Galerii Vittorio Emanuele II odbyło się wydarzenie Vogue World: Milano, które przyciągnęło do Włoch tłum gwiazd. W roli modelki sprawdziła się... Aryna Sabalenka. Tenisistka zachwyciła w kreacji z domu mody Gucci.",
+    "id": "04a56276-96b0-42b7-8299-3dd1e64a4843",
+    "category": "Ofsajd",
+    "category_slug": "ofsajd",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/SIAk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83YTM1NDIyYTNhOGFhOTIwMGFjZmE4MmE0ODRlYjllZS5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE"
+  },
+  "8eba259c-49ab-48f0-9bca-deaa31623faa": {
+    "title": "Polak wrócił z dalekiej podróży! Niesamowita walka o kontrakt w UFC",
+    "link": "https://przegladsportowy.onet.pl/mma/polak-wrocil-z-dalekiej-podrozy-niesamowita-walka-o-kontrakt-w-ufc/r5dv303",
+    "published": "2026-09-22T23:25:59+00:00",
+    "summary": "Damian Piwowarczyk był bardzo blisko porażki, chwiał się na nogach, ale przetrwał trudne chwile i znokautował rywala. 29-latek ma być kolejnym Polakiem w UFC!",
+    "id": "8eba259c-49ab-48f0-9bca-deaa31623faa",
+    "category": "MMA",
+    "category_slug": "mma",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/jtAk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jNmE1MDFiZjExYTdkMzkzN2JmMjU3OTNlZTlhNGI0Yy5qcGeSlQPNA7VKzRefzQ1LkwXNCWDNBkDeAAKhMAehMQQ"
   }
 }
