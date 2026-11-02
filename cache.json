@@ -1,14 +1,4 @@
 {
-  "4d166362-4b25-474f-b3b9-86603d8d98c0": {
-    "title": "\"Boją się grać\". Kapitan Lecha Poznań uderza w Legię Warszawa. To go zaskoczyło",
-    "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/boja-sie-grac-kapitan-lecha-poznan-uderza-w-legie-to-go-zaskoczylo/jre29xb",
-    "published": "2026-10-25T22:46:06+00:00",
-    "summary": "— Byłem zaskoczony, że Legia nie chciała podlać boiska. [...] Boją się grać w piłkę — tak w rozmowie z TVP Sport o Legii Warszawa wypowiedział się Radosław Murawski tuż po zwycięstwie w hicie Ekstraklasy. A to nie wszystko.",
-    "id": "4d166362-4b25-474f-b3b9-86603d8d98c0",
-    "category": "Piłka nożna",
-    "category_slug": "pilka-nozna",
-    "image": "https://cdn.przegladsportowy.onet.pl/1/nmjk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yY2ExNmUzM2YyMDZmM2U5NTU3NDc5OWYyNzViMjIxNy5qcGeSlQPNA5wezQapzQO_kwXNCWDNBkDeAAKhMAehMQQ"
-  },
   "7c654f98-98b1-4fab-ad71-1cbccb717d05": {
     "title": "Niemiec naprawdę powiedział to o Krzysztofie Piątku. Aż trudno uwierzyć",
     "link": "https://przegladsportowy.onet.pl/pilka-nozna/niemiec-naprawde-powiedzial-to-o-krzysztofie-piatku-az-trudno-uwierzyc/k3dzecp",
@@ -5811,12 +5801,12 @@
   },
   "a9eac49a-cb8b-43e0-971b-67172af633cb": {
     "title": "Kimi Antonelli — genialny mistrz świata F1 bez prawa jazdy",
-    "link": "https://przegladsportowy.onet.pl/felietony/kimi-antonelli-genialny-mistrz-swiata-f1-bez-prawa-jazdy/xqckzdh",
-    "published": "2026-10-31T07:00:00+00:00",
-    "summary": "Andrea Kimi Antonelli został właśnie najmłodszym w historii mistrzem świata Formuły 1. Znaczy formalnie jeszcze nim nie jest, ale wiadomo, że tytułu nic i nikt mu już nie odbierze. Kim tak naprawdę jest ten fenomenalny młokos z Bolonii, którego od początku kariery nazywano \"chłopakiem z garażu\"?",
+    "link": "https://przegladsportowy.onet.pl/formula-1/kimi-antonelli-genialny-mistrz-swiata-f1-bez-prawa-jazdy/0dqg7w6",
+    "published": "2026-11-01T22:40:00+00:00",
+    "summary": "Andrea Kimi Antonelli został właśnie najmłodszym w historii mistrzem świata Formuły 1. Kim tak naprawdę jest ten fenomenalny młokos z Bolonii, którego od początku kariery nazywano \"chłopakiem z garażu\"?",
     "id": "a9eac49a-cb8b-43e0-971b-67172af633cb",
-    "category": "Felietony",
-    "category_slug": "felietony",
+    "category": "Formuła 1",
+    "category_slug": "formula-1",
     "image": "https://cdn.przegladsportowy.onet.pl/1/4rUk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kZmQ3YjQ5N2RkODdhNWExODM2NWU4NmQ5ZWJlZTQ4NC5qcGeSlQPNAoLMn80Lks0Gg5MFzQlgzQZA3gACoTAHoTEE"
   },
   "60e1cde2-a421-4b68-9791-22dc5fa1d71f": {
@@ -7358,5 +7348,15 @@
     "category": "Skoki narciarskie",
     "category_slug": "sporty-zimowe/skoki-narciarskie",
     "image": "https://cdn.przegladsportowy.onet.pl/1/QPUk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jZDhhNGVkYzE0N2JiMmE4NzgzZTk5MWIzODkxMjdlZi5qcGeSlQPNAdnNAU_NDGjNBvuTBc0JYM0GQN4AAqEwB6ExBA"
+  },
+  "b9db12a6-9ffb-49e0-a890-4a0a37186e74": {
+    "title": "ATP Paryż: Lorenzo Musetti - Hubert Hurkacz [RELACJA NA ŻYWO]",
+    "link": "https://przegladsportowy.onet.pl/tenis/lorenzo-musetti-hubert-hurkacze-relacja-na-zywo-atp-paryz-live/k4xr7gy",
+    "published": "2026-11-01T00:58:00+00:00",
+    "summary": "Lorenzo Musetti - Hubert Hurkacz to spotkanie w pierwszej rundzie turnieju ATP w Paryżu. Trudno wskazać wyraźnego faworyta tego starcia.",
+    "id": "b9db12a6-9ffb-49e0-a890-4a0a37186e74",
+    "category": "Tenis",
+    "category_slug": "tenis",
+    "image": "https://cdn.przegladsportowy.onet.pl/1/gcck9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wOWQ3ZTBiYTU3Y2Q3YTRkMjdlNWY4ZmU5ZTQxZjk2OC5qcGeSlQMAzN7NG9XND6eTBc0JYM0GQN4AAqEwB6ExBA"
   }
 }
